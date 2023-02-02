@@ -57,6 +57,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: 'Downpay by Hypehound - Documentation',
         logo: {
@@ -83,10 +88,10 @@ const config = {
           {
             title: 'Docs',
             items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
+              // {
+              //   label: 'Tutorial',
+              //   to: '/intro',
+              // },
             ],
           },
           {
