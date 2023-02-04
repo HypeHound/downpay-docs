@@ -29,3 +29,10 @@
   --ifm-color-primary-lightest: #81FDD2;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
+
+.alert--success {
+  --ifm-alert-background-color: #5c6393c7;
+  --ifm-alert-background-color-highlight: #05aa0557;
+  --ifm-alert-foreground-color: #ffffff;
+  --ifm-alert-border-color: #2a99ea;
+}
