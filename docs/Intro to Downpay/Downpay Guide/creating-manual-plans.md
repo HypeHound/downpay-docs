@@ -1,26 +1,16 @@
 ---
 sidebar_position: 4
-slug: /create-plans
+slug: /create-options
 title: Creating payment options
 ---
 
-## On this page
-
-import TOCInline from '@theme/TOCInline';
-
-<TOCInline
-  // Only show h1 - h3
-  toc={toc.filter((node) => node.level === 1 || node.level === 2 || node.level === 3)}
-  minHeadingLevel={1}
-  // Show h4 headings in addition to the default h2 and h3 headings
-  maxHeadingLevel={3}
-/>
-
 :::info Note
-This guide assumes you already have a product in your store that you are ready to create a payment option for. If you do not have a product, begin by creating one in the **Products** section of the Shopify admin before beginning. A Shopify help guide can be found [here](https://help.shopify.com/en/manual/products/add-update-products).
+This guide assumes you already have a product in your store that you are ready to create a payment option for. If you do not have a product, creating one in the **Products** section of the Shopify admin. A Shopify help guide can be found [here](https://help.shopify.com/en/manual/products/add-update-products).
 :::
 
 ## Creating plans using Downpay's interface
+
+The goal of this guide is to help you create your first plan using Downpay's interface.
 
 **1.** Navigate to the Downpay app from the Shopify admin by clicking **Apps** in the left hand navigation bar
 **2.** Select **Downpay** from the search drop down

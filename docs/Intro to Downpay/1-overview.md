@@ -7,18 +7,6 @@ slug: /overview
 
 Learn about use cases for Downpay, features, pricing, and where to get help.
 
-# On this page
-
-import TOCInline from '@theme/TOCInline';
-
-<TOCInline
-  // Only show h1 - h3
-  toc={toc.filter((node) => node.level === 1 || node.level === 2 || node.level === 3)}
-  minHeadingLevel={1}
-  // Show h4 headings in addition to the default h2 and h3 headings
-  maxHeadingLevel={3}
-/>
-
 ## Use cases
 
 ### Preorders

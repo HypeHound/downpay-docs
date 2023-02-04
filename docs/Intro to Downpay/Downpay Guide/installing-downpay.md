@@ -4,7 +4,7 @@ slug: /installing-downpay
 title: Installing Downpay
 ---
 
-## Installing Downpay
+## Installing Downpay to your store
 
 To begin, install Downpay from Shopify App Store located [here](http://test.com). 
 
@@ -28,4 +28,4 @@ Below we have listed our permissions details and reasoning:
 
 ### Billing
 
-Later on during the private beta we will release pricing plans and introduce billing selection screens to installation.
+After the free private beta, we will release pricing plans and introduce plan selection screens to the installation process.

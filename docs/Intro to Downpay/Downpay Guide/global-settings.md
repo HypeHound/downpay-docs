@@ -1,6 +1,7 @@
 ---
 sidebar_position: 7
-slug: /general-settings
+slug: /global-settings
+title: Using global settings
 ---
 
 # General Settings
@@ -38,30 +39,6 @@ In order to support faster plan creation without the use of Downpay’s user int
 [insert images and video]
 
 
-## Managing Downpay Orders
-
-Once the remainder of the payment is automatically or manually collected on an order with a Downpay plan, you can begin fulfillment. To start, click ************************Fulfill Early************************ in order to release the fulfillment and allow you to begin your usual workflow.
-
-Note: We will be automating this to support releasing fulfillments upon full payment.
-
-Multiple products in one order
-
-limitation on one future payment collection date
-
-# FAQs
-
-- I need my deposits to be non-refundable. How do I communicate that with my customers?
-    
-    During checkout, customers are shown a link to your cancellation policy. If you would like to change the default text of the policy, you can do so in your Shopify Admin, under Settings > Policies. Enter your policy in the ‘Purchase options cancellation policy’ section.
-    
-- How do my customers manage their Downpay orders?
-    
-    In the Downpay general settings, you can enable cancellations using customer accounts. This will allow customers to manage their deposit orders without contacting your customer support. 
-    
-- Can I have more than one plan on a specific Product?
-    
-    Technically Downpay allows you to create more than one plan per product however only the first created plan for that product will appear on your storefront.
-    
 
 # Contact Support
 

@@ -1,0 +1,25 @@
+---
+sidebar_position: 2
+slug: /downpay-guide
+Title: Downpay Guide
+---
+
+# Downpay Guide
+
+This section is a comprehensive guide to setting up and using Downpay to create payment options for your products. 
+
+# In this section
+
+[Installing Downpay to your store](./installing-downpay.md)
+
+[Installing Downpay to your themes](./installing-to-themes.md)
+
+[Creating payment options](./creating-manual-plans.md)
+
+[Creating cancellation policies](./customer-purchase-policy.md)
+
+[Editing Payment Plans](./edit-plans.md)
+
+[Managing Orders](./order-management.md)
+
+[Using global settings](./global-settings.md)

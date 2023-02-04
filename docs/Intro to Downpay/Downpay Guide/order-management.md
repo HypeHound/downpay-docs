@@ -1,10 +1,10 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 slug: /order-management
-title: Order management
+title: Managing orders
 ---
 
-# Managing Downpay Orders
+# Managing Orders
 
 Once the remainder of the payment is automatically or manually collected on an order with a Downpay plan, you can begin fulfillment. To start, click ************************Fulfill Early************************ in order to release the fulfillment and allow you to begin your usual workflow.
 
