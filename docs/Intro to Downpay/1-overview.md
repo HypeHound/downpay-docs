@@ -1,11 +1,8 @@
 # Overview
-<br/>
-Learn about use cases for Downpay, features, pricing, and where to get help.<br/>
-<br/>
-<br/>
+
+Learn about use cases for Downpay, features, pricing, and where to get help.
 
 # On this page
-<br/>
 
 [Use cases](#use-cases)
 
@@ -14,49 +11,35 @@ Learn about use cases for Downpay, features, pricing, and where to get help.<br/
 [Pricing plans](#pricing-plans)
 
 [Where to get help](#where-to-get-help)
-<br/>
-<br/>
 
 # Use cases
-<br/>
 
 ## Preorders
-<br/>
+
 If you are releasing a new product and want to gauge demand to map out production you can use Downpay to give customers a way to leave a minimal deposit while they wait for your product to release.
-<br/>
-<br/>
 
 ## Made to Order
-<br/>
+
 If you want to make products on demand, Downpay is a great way to take an upfront deposit and only charge the remainder once you're ready to ship the product our.
-<br/>
-<br/>
 
 ## Out of Stock
-<br/>
+
 If you've run out of stock on products you know you'll be stocking again soon, you can use Downpay to allow customers to continue buying and holding their place in line. If you're used to back in stock notifications alone, Downpay is a way to level up your selling strategy by ensuring customers commit to the purchase up front. 
-<br/>
-<br/>
 
 ## High-end Products
-<br/>
+
 If you're selling products that are challenging for customers to pay off in full at checkout, you can use Downpay as a layaway solution to split their payment in two and make it easier on their wallets. This method is also useful when your high end products are coupled with longer shipping times.
-<br/>
-<br/>
 
 # Key features
-<br/>
+
 Downpay includes many features to help enable payment flexibility with many more on the way. Some features are only avaiable for certain pricing plans.
 Some of Downpay's key features are:
-
-<br/>
 
 * Taking deposits per product on your store or deferred payment per product
 * Manual and automatic payment collection
 * Storefront payment option content customization 
 * Order tags and scheduled order status for future fulfillments
 * Customer payment method changes and/or cancellations
-</br>
 
 :::tip Note
 
@@ -66,15 +49,14 @@ Hypehound encourages merchants to review [Shopify’s guidelines](https://help.s
 
 
 # Pricing plans
-<br/>
-*Coming soon*<br/>
-<br/>
-<br/>
+
+*Coming soon*
+
 
 # Where to get help
-<br/>
-For any questions, please contact us in of the following ways:<br/>
-<br/>
+
+For any questions, please contact us in of the following ways:
+
 
 * Email us at: [support@hypehound.io](mailto:support@hypehound.io)
 * Join our Discord community [here](https://discord.gg/9rfcd3jGUq) and engage with us and other merchants using Downpay <br/>
