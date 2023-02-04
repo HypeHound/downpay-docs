@@ -1,36 +1,43 @@
+---
+sidebar_position: 1
+slug: /overview
+---
+
 # Overview
 
 Learn about use cases for Downpay, features, pricing, and where to get help.
 
 # On this page
 
-[Use cases](#use-cases)
+import TOCInline from '@theme/TOCInline';
 
-[Key features](#key-features)
+<TOCInline
+  // Only show h1 - h3
+  toc={toc.filter((node) => node.level === 1 || node.level === 2 || node.level === 3)}
+  minHeadingLevel={1}
+  // Show h4 headings in addition to the default h2 and h3 headings
+  maxHeadingLevel={3}
+/>
 
-[Pricing plans](#pricing-plans)
+## Use cases
 
-[Where to get help](#where-to-get-help)
-
-# Use cases
-
-## Preorders
+### Preorders
 
 If you are releasing a new product and want to gauge demand to map out production you can use Downpay to give customers a way to leave a minimal deposit while they wait for your product to release.
 
-## Made to Order
+### Made to Order
 
 If you want to make products on demand, Downpay is a great way to take an upfront deposit and only charge the remainder once you're ready to ship the product our.
 
-## Out of Stock
+### Out of Stock
 
 If you've run out of stock on products you know you'll be stocking again soon, you can use Downpay to allow customers to continue buying and holding their place in line. If you're used to back in stock notifications alone, Downpay is a way to level up your selling strategy by ensuring customers commit to the purchase up front. 
 
-## High-end Products
+### High-end Products
 
 If you're selling products that are challenging for customers to pay off in full at checkout, you can use Downpay as a layaway solution to split their payment in two and make it easier on their wallets. This method is also useful when your high end products are coupled with longer shipping times.
 
-# Key features
+## Key features
 
 Downpay includes many features to help enable payment flexibility with many more on the way. Some features are only avaiable for certain pricing plans.
 Some of Downpay's key features are:
@@ -40,6 +47,7 @@ Some of Downpay's key features are:
 * Storefront payment option content customization 
 * Order tags and scheduled order status for future fulfillments
 * Customer payment method changes and/or cancellations
+* Customer purchase options cancellation policy at checkout
 
 :::tip Note
 
@@ -48,12 +56,12 @@ Hypehound encourages merchants to review [Shopify’s guidelines](https://help.s
 :::
 
 
-# Pricing plans
+## Pricing plans
 
 *Coming soon*
 
 
-# Where to get help
+## Where to get help
 
 For any questions, please contact us in of the following ways:
 

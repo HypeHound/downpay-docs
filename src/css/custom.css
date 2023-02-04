@@ -31,8 +31,8 @@
 }
 
 .alert--success {
-  --ifm-alert-background-color: #5c6393c7;
-  --ifm-alert-background-color-highlight: #05aa0557;
+  --ifm-alert-background-color: #16765464;
+  --ifm-alert-background-color-highlight: #33F5B1;
   --ifm-alert-foreground-color: #ffffff;
-  --ifm-alert-border-color: #2a99ea;
+  --ifm-alert-border-color: #33F5B1;
 }
