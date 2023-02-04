@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /downpay-intro
+slug: /
 title: Intro to Downpay
 ---
 
@@ -8,4 +8,4 @@ Welcome to Downpay! You can find information about how to use Downpay for a vari
 
 To get started, follow our [comprehensive guide](./Downpay%20Guide/index.md)) for a step by step instructions.
 
-If you have any questions, please email us at [support@hypehound.io](mailto:support@hypehound.io) or join our Discord community [here](https://discord.gg/9rfcd3jGUq) and engage with us and other merchants using Downpay.
+If you have any questions, feel free to email us at [support@hypehound.io](mailto:support@hypehound.io)
