@@ -6,10 +6,14 @@ Learn about use cases for Downpay, features, pricing, and where to get help.<br/
 
 # On this page
 <br/>
-[Use cases](#use-cases)<br/>
-[Key features](#key-features)<br/>
-[Pricing plans](#pricing-plans)<br/>
-[Where to get help](#where-to-get-help)<br/>
+
+[Use cases](#use-cases)
+
+[Key features](#key-features)
+
+[Pricing plans](#pricing-plans)
+
+[Where to get help](#where-to-get-help)
 <br/>
 <br/>
 
@@ -45,28 +49,33 @@ If you're selling products that are challenging for customers to pay off in full
 Downpay includes many features to help enable payment flexibility with many more on the way. Some features are only avaiable for certain pricing plans.
 Some of Downpay's key features are:
 
+<br/>
+
 * Taking deposits per product on your store or deferred payment per product
 * Manual and automatic payment collection
 * Storefront payment option content customization 
-* Scheduled orders for easy fulfillment management now versus later
+* Order tags and scheduled order status for future fulfillments
 * Customer payment method changes and/or cancellations
+</br>
 
-::: tip *Note*
-<br/>
+:::tip Note
+
 Hypehound encourages merchants to review [Shopify’s guidelines](https://help.shopify.com/en/manual/products/purchase-options/pre-orders) for managing preorder purchase options and also understand the current limitations.  
-<br/>
-<br/>
+
+:::
 
 
 # Pricing plans
 <br/>
 *Coming soon*<br/>
 <br/>
+<br/>
 
 # Where to get help
 <br/>
 For any questions, please contact us in of the following ways:<br/>
 <br/>
-* Email us at: support@hypehound.io <br/>
+
+* Email us at: [support@hypehound.io](mailto:support@hypehound.io)
 * Join our Discord community [here](https://discord.gg/9rfcd3jGUq) and engage with us and other merchants using Downpay <br/>
 
