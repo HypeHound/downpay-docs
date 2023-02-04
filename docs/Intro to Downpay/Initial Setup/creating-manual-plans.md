@@ -47,7 +47,7 @@ Once Downpay is open, you can pin the app to your admin left navigation bar by u
   When using automatic payment collection, Downpay will collect any remaining payment on the date that is chosen. This can be changed per order.
 ::: 
 
-For more information on automatic payment collection, review [this](this).
+For more information on automatic payment collection, review this.
 
 **8.** Click **Save** to create the plan
 :::info Note
