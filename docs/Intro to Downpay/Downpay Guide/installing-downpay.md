@@ -6,9 +6,17 @@ title: Installing Downpay
 
 ## Installing Downpay to your store
 
-To begin, install Downpay from Shopify App Store located [here](http://test.com). 
+### Steps 
 
-- You will be asked to approve Downpay’s access to your Store by reviewing permissions and clicking Install App.
+**1.** Install Downpay from Shopify App Store located [here](http://test.com). 
+
+**2.** Read through and approve Downpay’s access to your Store and click Install App. Read more about Downpay permissions [below](#permissions).
+
+**3.** Once approved, you’ll arrive at the Downpay New Merchant Onboarding where we will install theme snippets and prepare your first Downpay Plan.
+
+:::info Note
+After the free private beta, we will release pricing plans and introduce plan selection screens to the installation process.
+:::
 
 ### Permissions
 
@@ -23,9 +31,3 @@ Below we have listed our permissions details and reasoning:
 | Payment Terms | With each order enabled through the app, the buyer’s payment information is stored in a secure vault made available by Shopify. This access scope allows the app to read these payment terms, so that it can help manage workflows around orders and deferred payments on those orders. |
 | Payment Mandates | This access scope allows the app to issue a charge to the buyer’s credit card at a time later than checkout - for example, an order where the buyer is charged a deposit upfront but is then charged the remainder at a later date. |
 |  |  |
-
-- Once approved, you’ll arrive at the Downpay New Merchant Onboarding where we will install theme snippets and prepare your first Downpay Plan.
-
-### Billing
-
-After the free private beta, we will release pricing plans and introduce plan selection screens to the installation process.

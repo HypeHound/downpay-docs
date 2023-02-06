@@ -46,8 +46,7 @@ Hypehound encourages merchants to review [Shopify’s guidelines](https://help.s
 
 ## Pricing plans
 
-*Coming soon*
-
+Currently Downpay is in free private beta, pricing coming soon.
 
 ## Where to get help
 
@@ -55,5 +54,5 @@ For any questions, please contact us in of the following ways:
 
 
 * Email us at: [support@hypehound.io](mailto:support@hypehound.io)
-* Join our Discord community [here](https://discord.gg/9rfcd3jGUq) and engage with us and other merchants using Downpay <br/>
+* Join our Discord community [here](https://discord.gg/9rfcd3jGUq) and engage with us and other merchants using Downpay
 

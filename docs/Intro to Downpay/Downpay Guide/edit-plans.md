@@ -4,14 +4,14 @@ slug: /editing-plans
 title: Editing payment plans
 ---
 
-Modifying plans can be useful when you would like to add more products to a plan, adjust deposit amount or type, or adjust expected release dates. Changing any properties about a plan does not affect orders that have already been placed.
+Modifying Downpay purchase options can be useful when you would like to add more products to an existing option, adjust deposit amount or type, or adjust expected release dates. Changing properties on a Downpay option does not affect orders that have already been placed.
 
-To begin, click the plan you wish to modify from the Downpay dashboard
+To begin, click the Downpay purchase option you wish to modify from the Downpay dashboard
 
 ### Edit products
 
 :::info Note
-If more than one plan exists for a specific product, Downpay will only display the first plan that includes this product on your storefront.
+If more than one purchase options exists for a specific product, Downpay will only display the first plan that includes this product on your storefront. 
 :::
 
 #### Steps: 

@@ -6,9 +6,9 @@ title: Installing Downpay to themes
 
 ## Installing Downpay to your themes
 
-On first setup, Downpay will scan your store to determine if you are running a version 1.0 or 2.0 Shopify theme. Downpay will then suggest the correct setup instructions in app for your storefront. 
+On first setup, Downpay will scan your store to determine if you are running an Online store 1.0 or 2.0 theme. Downpay will then suggest the correct setup instructions in app.
 
-## Themes 2.0
+## Online Store 2.0 Themes
 
 ### Installing Downpay blocks into your storefront
 
