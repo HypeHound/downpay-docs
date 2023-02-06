@@ -14,7 +14,7 @@ This section is a comprehensive guide to setting up and using Downpay to create 
 
 [Installing Downpay to your themes](./installing-to-themes.md)
 
-[Creating payment options](./creating-manual-plans.md)
+[Creating payment options](./creating-manual-options.md)
 
 [Creating cancellation policies](./customer-purchase-policy.md)
 
