@@ -5,7 +5,7 @@ slug: /overview
 
 # Overview
 
-Learn about use cases for Downpay, features, pricing, and where to get help.
+Learn more about use cases for Downpay, features, pricing, and where to get help.
 
 ## Use cases
 
@@ -30,19 +30,16 @@ If you're selling products that are challenging for customers to pay off in full
 Downpay includes many features to help enable payment flexibility with many more on the way. Some features are only avaiable for certain pricing plans.
 Some of Downpay's key features are:
 
-* Taking deposits per product on your store or deferred payment per product
+* Deposits based on % or $ price of a product on your store or offering deferred payment per product
 * Manual and automatic payment collection
-* Storefront payment option content customization 
-* Order tags and scheduled order status for future fulfillments
+* Storefront purchase options content customization 
+* Order tags by purchase option name and scheduled order status for future fulfillments
 * Customer payment method changes and/or cancellations
 * Customer purchase options cancellation policy at checkout
 
 :::tip Note
-
 Hypehound encourages merchants to review [Shopify’s guidelines](https://help.shopify.com/en/manual/products/purchase-options/pre-orders) for managing preorder purchase options and also understand the current limitations.  
-
 :::
-
 
 ## Pricing plans
 

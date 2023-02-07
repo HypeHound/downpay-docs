@@ -45,7 +45,7 @@ Once you save a option, it will be live on your store. Ensure you’re working o
 :::
 
 
-### Disable regular buy now option if Downpau purchase options exist on a product
+### Disable regular buy now option if Downpay purchase options exist on a product
 
 :::info Note
 Downpay purchase options are only available for certain sales channels and payment methods that are listed on [this page](https://help.shopify.com/en/manual/products/purchase-options/subscriptions/setup#subscription-products) under **Eligibility requirements**. If you choose to limit products to Downpay purchase options only, your customers may lose the ability to purchase these products on unsupported channels and payment methods.

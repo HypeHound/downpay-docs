@@ -18,7 +18,7 @@ This section is a comprehensive guide to setting up and using Downpay to create 
 
 [Creating cancellation policies](./customer-purchase-policy.md)
 
-[Editing Payment Plans](./edit-plans.md)
+[Editing Purchase Options](./edit-options.md)
 
 [Managing Orders](./order-management.md)
 
