@@ -22,4 +22,4 @@ This section is a comprehensive guide to setting up and using Downpay to create 
 
 [Managing Orders](./order-management.md)
 
-[Using global settings](./global-settings.md)
+<!-- [Using global settings](./global-settings.md) -->
