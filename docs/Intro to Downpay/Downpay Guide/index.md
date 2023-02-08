@@ -21,5 +21,3 @@ This section is a comprehensive guide to setting up and using Downpay to create 
 [Editing Purchase Options](./edit-options.md)
 
 [Managing Orders](./order-management.md)
-
-<!-- [Using global settings](./global-settings.md) -->

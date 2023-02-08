@@ -9,8 +9,8 @@ title: Creating a cancellation policy
 By default, any Downpay purchase option requires customers to agree to purchase terms during checkout. This is a requirement for approval to store their payment method for a future charge. 
 The cancellation policy linked in the purchase terms box can be modified using the instructions below.
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
-<img src={useBaseUrl('/img/checkout_purchase_terms.svg')} />
+<!-- import useBaseUrl from '@docusaurus/useBaseUrl';
+<img src={useBaseUrl('/img/checkout_purchase_terms.svg')} /> -->
 
 ## Modify purchase option cancellation policy
 
