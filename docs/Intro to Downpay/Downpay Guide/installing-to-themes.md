@@ -4,7 +4,7 @@ slug: /installing-to-themes
 title: Installing Downpay to themes
 ---
 
-## Installing Downpay to your themes
+## Installing Downpay to your Storefront
 
 On first setup, Downpay will scan your store to determine if you are running an Online store 1.0 or 2.0 theme. Downpay will then suggest the correct setup instructions in app.
 

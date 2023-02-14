@@ -24,10 +24,11 @@ Below we have listed our permissions details and reasoning:
 
 | Permission | Reasoning |
 | --- | --- |
-| Customers | Downpay enables a ‘buyer portal’ through which customers can view and manage orders they have made with the help of the app. |
-| Orders | Downpay keeps track of orders which were processed using a deposit option, in order to enable core app features. |
-| Products | Since Downpay plans are associated with products, the app requires this access scope in order to keep track of products and associate them with core functionality. |
-| Purchase Options | Purchase Options enable Downpay to create different selling plans on products, such as deposits. |
-| Payment Terms | With each order enabled through the app, the buyer’s payment information is stored in a secure vault made available by Shopify. This access scope allows the app to read these payment terms, so that it can help manage workflows around orders and deferred payments on those orders. |
-| Payment Mandates | This access scope allows the app to issue a charge to the buyer’s credit card at a time later than checkout - for example, an order where the buyer is charged a deposit upfront but is then charged the remainder at a later date. |
-|  |  |
+| Write Customers | Used to allow to customers to directly change the payment method on file for an order or cancel their order through the order status page. |
+| Read/Write Orders | Used to keep track of orders which were processed using a Downpay purchase option in order to enable core app features. |
+| Read/Write Products | Used to keep track of products and associate them with core functionality. Write permissions are used to toggle the **Only show this product with these purchase options** box automatically for merchants.|
+| Write Purchase Options | Used to enable Downpay to create different selling plans on products, such as deposits. |
+| Read Payment Terms | With each order enabled through the app, the customer's payment information is stored in a secure vault made available by Shopify. This access scope allows the app to read these payment terms, so that it can help manage workflows around orders and deferred payments on those orders. |
+| Read/Write Payment Mandates | Used to issue a charge to the customer's payment method at a time later than checkout - for example a partial paid preorder. |
+| Read Themes | Used to detect support for app blocks on storefront. |
+|
