@@ -8,7 +8,7 @@ title: Installing Downpay
 
 ### Steps 
 
-**1.** Install Downpay from Shopify App Store located [here](http://test.com). 
+**1.** Install Downpay from the Shopify App Store or the link Hypehound provides you. 
 
 **2.** Read through and approve Downpay’s access to your Store and click Install App. Read more about Downpay permissions [below](#permissions).
 
