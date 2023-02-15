@@ -10,14 +10,17 @@ This section is a comprehensive guide to setting up and using Downpay to create 
 
 # In this section
 
-[Installing Downpay to your store](./installing-downpay.md)
+[Installing Downpay](./installing-downpay.md)
 
-[Installing Downpay to your themes](./installing-to-themes.md)
+[Installing Downpay to themes](./installing-to-themes.md)
 
-[Creating payment options](./creating-manual-options.md)
+[Customer portal setup](./customer-portal.md)
 
-[Creating cancellation policies](./customer-purchase-policy.md)
+[Creating purchase options](./creating-manual-options.md)
 
-[Editing Purchase Options](./edit-options.md)
+[Creating a cancellation policy](./customer-purchase-policy.md)
 
-[Managing Orders](./order-management.md)
+[Editing purchase options](./edit-options.md)
+
+[Managing orders](./order-management.md)
+

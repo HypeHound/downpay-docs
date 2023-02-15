@@ -6,6 +6,10 @@ title: Managing orders
 
 # Managing Orders
 
+## Viewing purchase plan orders
+
+Downpay sets an order tag equal to the name of the purchase option that was created in Downpay. To view all orders under a purchase option, navigate to the Downpay app and click **View Orders** beside the respective purchase option.
+
 ## Statuses
 
 Orders with purchase options will appear in your Shopify admin with a **Scheduled** fulfillment status. Orders with partial payments will have a **Partially Paid** payment status.

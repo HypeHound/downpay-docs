@@ -4,7 +4,7 @@ slug: /customer-portal-setup
 title: Customer portal setup
 ---
 
-## Self Service Customer Payment Update
+## Non-login based customer portal
 
 Downpay allows customers to directly update the payment method on file for orders that have a Downpay purchase option. To provide this feature, a script will need to be installed into the order status page. 
 
@@ -34,4 +34,4 @@ Downpay allows customers to directly update the payment method on file for order
 
 **3.** Click **Save** at the top right of the settings page.
 
-Customers can now change their payment method from the order status page available after checkout or using the **View your order** link in the their order confirmation email.
+Customers can now access a portal using the order status page and change their payment method. This page is accessible after checkout or using the **View your order** link in the their order confirmation email.

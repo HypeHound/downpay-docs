@@ -27,32 +27,26 @@ If you are running a new Online Store 2.0 theme that supports app blocks, you ca
 
 *5.* Click Save at the top right
 
-
 #### Steps
 
 **1.** Click **Online Store** from your left navigation bar in Shopify Admin.
 
 **2.** Click **Customize** on the theme you wish to add Downpay blocks to.
 
-<!-- **3.** Click the third icon on the left navigation bar to open the **App embeds** section
+**3.** Navigate to the product page template you are using from the dropdown menu at the top of the editor.
 
-**4.** Toggle the button beside **Downpay** to the on position -->
+**4.** To add product options, hover near your add to cart button until you see a **+**. Click **Add block** and select the block named **Downpay App**.
 
-**5.** Navigate to the product page template you are using from the dropdown menu at the top of the editor.
-
-**6.** To add product options, hover near your add to cart button until you see a **+**. Click **Add block** and select the block named **Downpay App**.
-
-**7.** To continue to the next step, add the product to cart and then navigate to the cart template.
+**5.** To continue to the next step, add the product to cart and then navigate to the cart template.
 
 ::tip Tip
 Click the Downpay block to customize the content displayed
 :::
 
-**8.** To add deposit totals, hover near the cart total area until you see a **+**. Click **Add block** and select the block named **Downpay App**
+**6.** To add deposit totals, hover near the cart total area until you see a **+**. Click **Add block** and select the block named **Downpay App**
 
-**9.** Click **Save** at the top right to finish setup.
+**7.** Click **Save** at the top right to finish setup.
 
 ## Legacy Themes
 
-
-<!-- Denis to add> -->
+For legacy themes installation, please reach out to us at [support@hypehound.io](mailto:support@hypehound.io).
