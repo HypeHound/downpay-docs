@@ -36,3 +36,11 @@
   --ifm-alert-foreground-color: #ffffff;
   --ifm-alert-border-color: #33F5B1;
 }
+
+
+.footer--dark {
+  --ifm-footer-background-color: #1c1c1d;
+  --ifm-footer-color: var(--ifm-footer-link-color);
+  --ifm-footer-link-color: var(--ifm-color-secondary);
+  --ifm-footer-title-color: var(--ifm-color-white);
+}

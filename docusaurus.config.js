@@ -88,40 +88,45 @@ const config = {
           {
             title: 'Docs',
             items: [
-              // {
-              //   label: 'Tutorial',
-              //   to: '/intro',
-              // },
+              {
+                label: 'Overview',
+                to: '/overview',
+              },
+              {
+                label: 'Downpay Guide',
+                to: '/downpay-guide',
+              },
+              {
+                label: 'FAQs',
+                to: '/faqs',
+              },
             ],
           },
           {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
+          
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/9rfcd3jGUq',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/hypehound_apps',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Support',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Get Support',
+                href: 'mailto:support@hypehound.io',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hypehound Inc.`,
       },
       prism: {
         theme: lightCodeTheme,
