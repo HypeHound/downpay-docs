@@ -107,6 +107,10 @@ const config = {
             items: [
           
               {
+                label: 'About',
+                href: 'https://www.hypehound.io/about',
+              },
+              {
                 label: 'Discord',
                 href: 'https://discord.gg/9rfcd3jGUq',
               },
@@ -122,6 +126,10 @@ const config = {
               {
                 label: 'Get Support',
                 href: 'mailto:support@hypehound.io',
+              },
+              {
+                label: 'Book a chat',
+                href: 'https://calendly.com/hypehoundapps/30min?back=1&month=2023-02',
               },
             ],
           },
