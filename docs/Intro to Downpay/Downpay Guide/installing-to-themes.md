@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 slug: /installing-to-themes
 title: Installing Downpay to themes
 ---
@@ -12,20 +12,7 @@ On first setup, Downpay will scan your store to determine if you are running an 
 
 ### Installing Downpay blocks into your storefront
 
-If you are running a new Online Store 2.0 theme that supports app blocks, you can add Downpay to your store in a few places using app blocks.
-
-
-## Steps:
-
-**1.** Navigate to a product page template for the dropdown menu at the top
-
-**2.** Hover around your add to cart button until you see a *+*, click *Add block* and select the block named *Downpay App*
-
-*3.* Add the product to cart and then navigate to the cart template
-
-*4.* Hover around the cart total area until you see a *+*, click *Add block* and select the block named *Downpay App*
-
-*5.* Click Save at the top right
+If you are running a new Online Store 2.0 theme that supports app blocks, you can add Downpay to your store in a the product page and the cart template.
 
 #### Steps
 
@@ -37,11 +24,11 @@ If you are running a new Online Store 2.0 theme that supports app blocks, you ca
 
 **4.** To add product options, hover near your add to cart button until you see a **+**. Click **Add block** and select the block named **Downpay App**.
 
-**5.** To continue to the next step, add the product to cart and then navigate to the cart template.
-
-::tip Tip
+:::tip Tip
 Click the Downpay block to customize the content displayed
 :::
+
+**5.** To continue to the next step, add the product to cart and then navigate to the cart template.
 
 **6.** To add deposit totals, hover near the cart total area until you see a **+**. Click **Add block** and select the block named **Downpay App**
 

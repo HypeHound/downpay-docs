@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 9
 slug: /order-management
 title: Managing orders
 ---
@@ -8,11 +8,11 @@ title: Managing orders
 
 ## Viewing purchase plan orders
 
-Downpay sets an order tag equal to the name of the purchase option that was created in Downpay. To view all orders under a purchase option, navigate to the Downpay app and click **View Orders** beside the respective purchase option.
+Downpay sets an order tag equal to the name of the purchase option that was created in Downpay. To view all orders under a purchase option, navigate to the Downpay app and click **View orders** beside the respective purchase option. You will be redirected to a filtered order page based on the respective tag.
 
 ## Statuses
 
-Orders with purchase options will appear in your Shopify admin with a **Scheduled** fulfillment status. Orders with partial payments will have a **Partially Paid** payment status.
+Orders with purchase options will appear in your Shopify admin with a **Scheduled** fulfillment status. Orders with partial payments will have a **Partially paid** payment status.
 
 ## Mixed cart orders
 
@@ -24,18 +24,27 @@ Mixed cart orders collect entire shipping cost and some taxes up front that repr
 
 ## Payment collection
 
-### Manual
+### Manual payment collection
 
 Payment can be manually collected from the payment method on file for a specific order that has only been partially paid. 
 
 #### Steps
 
-**1.** Open the order you wish to collect payment on from the Shopify order index page in the admin
+**1.** Open the order you wish to collect payment on from the Shopify order index page in the admin.
 
-**2.** Click **Collect Payment** and choose the payment method you wish to collect from and confirm the charge in the next screen.
+**2.** Click **Collect payment** and choose the payment method you wish to collect from and confirm the charge in the next screen.
 
 The order's payment status will now be **Paid** and you can begin fulfillment.
 
+### Manual date adjustment
+
+The payment due date can be adjusted in order to track when payment should be collected. This date is also used to collect payment automatically if that option is enabled.
+
+#### Steps
+
+**1.** Open the order you wish to adjust the payment due date on from the Shopify order index page in the admin.
+
+**2.** Click **Edit** beside **Payment due on** line and choose the payment method you wish to collect from and then adjust the payment terms to match the new expected shipping date.
 
 :::info Note
 Shopify currently only supports one future payment date. This means that any order with more than one deposit will be charged the remainder amount upon the next manual or automatic payment collection.
@@ -51,7 +60,7 @@ TBD -->
 
 Once the remainder of the payment is automatically or manually collected on an order with a Downpay purchase option, you can begin fulfillment. 
 
-### Steps
+#### Steps
 
 **1.** Open the order you wish to start fulfilling from the Shopify order index page in the admin
 

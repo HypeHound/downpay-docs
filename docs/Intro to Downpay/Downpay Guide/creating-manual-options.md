@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 7
 slug: /create-options
 title: Creating purchase options
 ---
@@ -12,17 +12,19 @@ This guide assumes you already have a product in your store that you are ready t
 
 The goal of this guide is to help you create your first purchase option using Downpay's app interface.
 
-### Steps
+#### Steps
 
-**1.** Navigate to the Downpay app from the Shopify admin by clicking **Apps** in the left hand navigation bar
-**2.** Select **Downpay** from the search drop down
+**1.** Navigate to the Downpay app from the Shopify admin by clicking **Apps** in the left hand navigation bar.
+
+**2.** Select **Downpay** from the search drop down.
+
 :::tip Tip
 Once Downpay is open, you can pin the app to your admin left navigation bar by using the 📌 icon located in the top right of the app page.
 :::
 
-**3.** Click **Create a new Downpay option** in the top right
+**3.** Click **Create purchase option** in the top right.
 
-**4.** Name your purchase option by inserting a title into the **Name** field. This **Name** will also be used as an order tag.
+**4.** Name your purchase option by inserting a title into the **Purchase option name** field. This field will also be used as an order tag.
 
 **5.** Click **Select product(s)** and use the search bar or select the product(s) you wish to create a purchase option for.
 
@@ -45,17 +47,17 @@ For more information on automatic payment collection, review this. -->
 Once you save a purchase option, it will become active. Ensure you’re working on a draft product if you would like to make the option available at a later date.
 :::
 
-### Disable regular buy now option if Downpay purchase options exist on a product
+### Enable regular buy now option if Downpay purchase options exist on a product
 
 :::info Note
-Downpay purchase options are only available for certain sales channels and payment methods that are listed on [this page](https://help.shopify.com/en/manual/products/purchase-options/subscriptions/setup#subscription-products) under **Eligibility requirements**. If you choose to limit products to Downpay purchase options only, your customers may lose the ability to purchase these products on unsupported channels and payment methods.
+Downpay purchase options are only available for certain sales channels and payment methods that are listed on [this page](https://help.shopify.com/en/manual/products/purchase-options/subscriptions/setup#subscription-products) under **Eligibility requirements**. If you choose to only use Downpay purchase options, your customers may lose the ability to purchase these products on unsupported channels and payment methods.
 :::
 
-### Steps
+#### Steps
 
 **1.** Navigate to the Product index in Shopify and find the Product you created a Downpay option for and click it to open the product details page.
 
-**2.** Scroll down and find the *Purchase options** section and check the box titled **Only show this product with these purchase options** to disable regular purchasing of this product.
+**2.** Scroll down and find the *Purchase options** section and uncheck the box titled **Only show this product with these purchase options** to enable regular purchasing of this product alongside Downpay purchase options.
 
 :::tip Troubleshooting
  If you do not see this box, ensure you have created a Downpay option for that specific product and hard refresh the page by holding shift and clicking your browser refresh button.

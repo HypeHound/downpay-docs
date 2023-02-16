@@ -1,18 +1,18 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 slug: /installing-downpay
 title: Installing Downpay
 ---
 
 ## Installing Downpay to your store
 
-### Steps 
+#### Steps 
 
 **1.** Install Downpay from the Shopify App Store or the link Hypehound provides you. 
 
 **2.** Read through and approve Downpay’s access to your Store and click Install App. Read more about Downpay permissions [below](#permissions).
 
-**3.** Once approved, you’ll arrive at the Downpay New Merchant Onboarding where we will install theme snippets and prepare your first Downpay Plan.
+**3.** Once approved, you’ll arrive at the Downapy overview screen and can begin using the onboarding guide to enable app blocks in your theme before creating your first purchase option.
 
 :::info Note
 After the free private beta, we will release pricing plans and introduce plan selection screens to the installation process.
