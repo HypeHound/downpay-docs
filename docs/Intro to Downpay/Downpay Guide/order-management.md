@@ -22,6 +22,21 @@ Downpay allows mixed cart orders. These orders will have multiple cards in the o
 Mixed cart orders collect entire shipping cost and some taxes up front that represent the available products
 :::
 
+## Fulfilling orders
+
+Once the remainder of the payment is automatically or manually collected on an order with a Downpay purchase option, you can begin fulfillment. 
+
+#### Steps
+
+**1.** Open the order you wish to start fulfilling from the Shopify order index page in the admin
+
+**2.** Click **Fulfill Early** in order to release the fulfillment and allow you to begin your usual workflow.
+
+
+:::caution Caution
+Downpay and Shopify do not block fulfilling and shipping orders that are only partially paid. Ensure you have received the expected payment before fulfilling orders.
+:::
+
 ## Payment collection
 
 ### Manual payment collection
@@ -50,24 +65,20 @@ The payment due date can be adjusted in order to track when payment should be co
 Shopify currently only supports one future payment date. This means that any order with more than one deposit will be charged the remainder amount upon the next manual or automatic payment collection.
 :::
 
+### Changing the payment due date
+
+When payment collection is set to manual mode in a Downpay purchase option, the payment due date is used to inform customers of the expected date they will be charged the remainder of the payment. If the payment collection estimate date changes, you may edit the date on the order details page and Downpay will automatically send an email notification to customers with the new date.
+
+#### Steps
+
+**1.** Open the order you wish to modify the purchase due date for from the Shopify order index page in the admin.
+
+**2.** Click **Edit** in the **Payment due on** line and adjust the due date and click **Save**.
+
+:::caution Caution
+Selecting other payment term types will not email notify customers of changes to the expected payment collection date
+:::
 
 <!-- ### Automatic
 
 TBD -->
-
-## Fulfilling orders
-
-
-Once the remainder of the payment is automatically or manually collected on an order with a Downpay purchase option, you can begin fulfillment. 
-
-#### Steps
-
-**1.** Open the order you wish to start fulfilling from the Shopify order index page in the admin
-
-**2.** Click **Fulfill Early** in order to release the fulfillment and allow you to begin your usual workflow.
-
-
-:::caution Caution
-Downpay and Shopify do not block fulfilling and shipping orders that are only partially paid. Ensure you have received the expected payment before fulfilling orders.
-:::
-

@@ -1,12 +1,12 @@
 ---
 sidebar_position: 5
 slug: /customer-portal-setup
-title: Customer portal setup
+title: Customer portal
 ---
 
-## Non-login based customer portal
+## Setting up the non-login based customer portal
 
-Downpay allows customers to directly update the payment method on file for orders that have a Downpay purchase option. To provide this feature, a script will need to be installed into the order status page. 
+Downpay allows customers to directly manage orders that have a Downpay purchase option without needing to login with an account. To provide this feature, a script will need to be installed into the order status page. 
 
 #### Steps
 
@@ -34,4 +34,16 @@ Downpay allows customers to directly update the payment method on file for order
 
 **3.** Click **Save** at the top right of the settings page.
 
-Customers can now access a portal using the order status page to change their payment method. This page is accessible after checkout or using the **View your order** link in the their order confirmation email.
+
+### How to use the customer portal
+
+
+Customers can access the portal using the order status page. This page is accessible after checkout or using the **View your order** link in the their order confirmation email.
+
+#### Steps
+
+**1.** To modify payment method or cancel an order, click **View order** from the email confirmation or from the order status page after checkout.
+
+**2.** Under the section **This order has a payment due in the future**, click **click here**.
+
+**3.** Select either **click here** under **Update your payment method** or **Cancelling your order** to receive an email link that will take you through the process.
