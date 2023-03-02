@@ -1,13 +1,28 @@
 ---
 sidebar_position: 5
 slug: /customer-portal-setup
-title: Customer portal
+title: Enabling customer accounts
 ---
 
-## Setting up the non-login based customer portal
+# Customer accounts
 
-Downpay allows customers to directly manage orders that have a Downpay purchase option without needing to login with an account. To provide this feature, a script will need to be installed into the order status page. 
+Downpay allows customers to manage orders with purchase options using Shopify's classic customer accounts as well as a no-login portal. 
 
+## Shopify classic customer accounts
+
+#### Steps
+
+**1.** Click **Online Store** from your left navigation bar in Shopify Admin.
+
+**2.** Click **Customize** on the theme you wish to add Downpay blocks to.
+
+**3.** Navigate to the **Classic customer accounts** template you are using from the dropdown menu at the top of the editor and then click the **Customer order** template. You may be asked to login to continue to the next step.
+
+**4.** Select an order from the order list provided and hover below the order details section until you see a **+**. Click **Add block** and select the block named **Downpay App**.
+
+## Setting up the no-login order management customer portal
+
+A script will need to be installed into the order status page to enable the no-login order management portal.
 #### Steps
 
 **1.** Navigate to your store's settings page from the ⚙️ located in the left navigation bar.
@@ -35,7 +50,7 @@ Downpay allows customers to directly manage orders that have a Downpay purchase 
 **3.** Click **Save** at the top right of the settings page.
 
 
-### How to use the customer portal
+### How to use the no-login customer portal
 
 
 Customers can access the portal using the order status page. This page is accessible after checkout or using the **View your order** link in the their order confirmation email.

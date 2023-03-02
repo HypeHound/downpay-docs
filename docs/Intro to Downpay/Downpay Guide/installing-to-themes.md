@@ -20,7 +20,7 @@ If you are running a new Online Store 2.0 theme that supports app blocks, you ca
 
 **2.** Click **Customize** on the theme you wish to add Downpay blocks to.
 
-**3.** Navigate to the product page template you are using from the dropdown menu at the top of the editor.
+**3.** Navigate to the **Product page** template you are using from the dropdown menu at the top of the editor.
 
 **4.** To add product options, hover near your add to cart button until you see a **+**. Click **Add block** and select the block named **Downpay App**.
 
