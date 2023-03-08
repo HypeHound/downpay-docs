@@ -6,7 +6,11 @@ title: Enabling customer accounts
 
 # Customer accounts
 
-Downpay allows customers to manage orders with purchase options using Shopify's classic customer accounts as well as a no-login portal. 
+Downpay allows customers to manage orders with purchase options using Shopify's classic customer accounts as well as a secure no-login portal. These can be used together or seperately depending on how you run your store. 
+
+:::info Note
+To set up Shopify customer accounts, review instructions provided [here](https://help.shopify.com/en/manual/customers/customer-accounts).
+:::
 
 ## Shopify classic customer accounts
 
@@ -16,7 +20,9 @@ Downpay allows customers to manage orders with purchase options using Shopify's 
 
 **2.** Click **Customize** on the theme you wish to add Downpay blocks to.
 
-**3.** Navigate to the **Classic customer accounts** template you are using from the dropdown menu at the top of the editor and then click the **Customer order** template. You may be asked to login to continue to the next step.
+**3.** Login with a customer account using the top right account icon. 
+
+Navigate to the **Classic customer accounts** template you are using from the dropdown menu at the top of the editor and then click the **Customer order** template. You may be asked to login to continue to the next step.
 
 **4.** Select an order from the order list provided and hover below the order details section until you see a **+**. Click **Add block** and select the block named **Downpay App**.
 
