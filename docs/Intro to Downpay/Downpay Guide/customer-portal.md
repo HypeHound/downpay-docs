@@ -6,11 +6,25 @@ title: Enabling customer accounts
 
 # Customer accounts
 
-Downpay allows customers to manage orders with purchase options using Shopify's classic customer accounts as well as a secure no-login portal. The secure no-login portal must be installed prior to using Shopify customer accounts. 
+Downpay allows customers to manage orders with purchase options using Shopify's classic customer accounts as well as a secure no-login portal from the order status page. Enable either or both to allow customers more control to manage their orders.
 
 :::info Note
 To set up Shopify customer accounts, review instructions provided [here](https://help.shopify.com/en/manual/customers/customer-accounts).
 :::
+
+## Shopify classic customer accounts
+
+#### Steps
+
+**1.** Click **Online Store** from your left navigation bar in Shopify Admin.
+
+**2.** Click **Customize** on the theme you wish to add Downpay blocks to.
+
+**3.** Login with a customer account using the top right account icon. 
+
+Navigate to the **Classic customer accounts** template you are using from the dropdown menu at the top of the editor and then click the **Customer order** template. You may be asked to login to continue to the next step.
+
+**4.** Select an order from the order list provided and hover below the order details section until you see a **+**. Click **Add block** and select the block named **Downpay App**.
 
 ## Setting up the no-login order management customer portal
 
@@ -40,21 +54,6 @@ A script will need to be installed into the order status page to enable the no-l
 ```
 
 **3.** Click **Save** at the top right of the settings page.
-
-## Shopify classic customer accounts
-
-#### Steps
-
-**1.** Click **Online Store** from your left navigation bar in Shopify Admin.
-
-**2.** Click **Customize** on the theme you wish to add Downpay blocks to.
-
-**3.** Login with a customer account using the top right account icon. 
-
-Navigate to the **Classic customer accounts** template you are using from the dropdown menu at the top of the editor and then click the **Customer order** template. You may be asked to login to continue to the next step.
-
-**4.** Select an order from the order list provided and hover below the order details section until you see a **+**. Click **Add block** and select the block named **Downpay App**.
-
 
 ### How to use the no-login customer portal
 
