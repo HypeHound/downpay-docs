@@ -30,7 +30,7 @@ Once Downpay is open, you can pin the app to your admin left navigation bar by u
 
 **6.** Select whether you would like to offer a deposit on your purchase option as either a percentage or an exact amount.
 
-<!-- - To also enable a **Full Payment** purchase option, check the box titled  **Enable Full Payment Option** -->
+<!-- - To also enable the **Full Payment** purchase option, check the box titled  **Enable Full Payment Option** -->
 
 **7.** Select the date at which you estimate your product will be available.
 - Exact dates are useful for upcoming preorders with specific release dates. Exact dates can also be used as estimations and be changed later on.
@@ -47,7 +47,7 @@ For more information on automatic payment collection, review this. -->
 Once you save a purchase option, it will become active. Ensure you’re working on a draft product if you would like to make the option available at a later date.
 :::
 
-### Enable regular buy now option if Downpay purchase options exist on a product
+### Disable regular buy now option if Downpay purchase options exist on a product
 
 :::info Note
 Downpay purchase options are only available for certain sales channels and payment methods that are listed on [this page](https://help.shopify.com/en/manual/products/purchase-options/subscriptions/setup#subscription-products) under **Eligibility requirements**. If you choose to only use Downpay purchase options, your customers may lose the ability to purchase these products on unsupported channels and payment methods.
@@ -57,7 +57,7 @@ Downpay purchase options are only available for certain sales channels and payme
 
 **1.** Navigate to the Product index in Shopify and find the Product you created a Downpay option for and click it to open the product details page.
 
-**2.** Scroll down and find the *Purchase options** section and uncheck the box titled **Only show this product with these purchase options** to enable regular purchasing of this product alongside Downpay purchase options.
+**2.** Scroll down and find the *Purchase options** section and check the box titled **Only show this product with these purchase options** to enable regular purchasing of this product alongside Downpay purchase options.
 
 :::tip Troubleshooting
  If you do not see this box, ensure you have created a Downpay option for that specific product and hard refresh the page by holding shift and clicking your browser refresh button.
