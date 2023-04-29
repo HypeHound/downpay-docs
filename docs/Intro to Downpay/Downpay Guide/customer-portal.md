@@ -33,7 +33,7 @@ A script will need to be installed into the order status page to enable the no-l
 
 **1.** Navigate to your store's settings page from the ⚙️ located in the left navigation bar.
 
-**2.** Click **Checkout and accounts** and scroll down to the **Order status page** section and insert the below script into the box provided.
+**2.** Click **Checkout** and scroll down to the **Order status page** section and insert the below script into the box provided.
 
 ```
 <script>
