@@ -6,9 +6,9 @@ title: Enabling customer accounts
 
 # Customer accounts
 
-Downpay allows customers to manage orders with purchase options using Shopify's classic customer accounts as well as a secure no-login portal from the order status page. Enable either or both to allow customers more control to manage their orders.
+Downpay allows customers to manage the payment method for orders with purchase options with a secure no-login portal from the order status page. <!-- Enable either or both to allow customers more control to manage their orders. -->
 
-:::info Note
+<!-- >:::info Note
 To set up Shopify customer accounts, review instructions provided [here](https://help.shopify.com/en/manual/customers/customer-accounts).
 :::
 
@@ -24,7 +24,7 @@ To set up Shopify customer accounts, review instructions provided [here](https:/
 
 Navigate to the **Classic customer accounts** template you are using from the dropdown menu at the top of the editor and then click the **Customer order** template. You may be asked to login to continue to the next step.
 
-**4.** Select an order from the order list provided and hover below the order details section until you see a **+**. Click **Add block** and select the block named **Downpay App**.
+**4.** Select an order from the order list provided and hover below the order details section until you see a **+**. Click **Add block** and select the block named **Downpay App**. -->
 
 ## Setting up the no-login order management customer portal
 
@@ -61,8 +61,12 @@ Customers can access the portal using the order status page. This page is access
 
 #### Steps
 
-**1.** To modify payment method or cancel an order, click **View order** from the email confirmation or from the order status page after checkout.
+**1.** To modify payment method, click **View order** from the email confirmation or from the order status page after checkout.
 
 **2.** Under the section **This order has a payment due in the future**, click **click here**.
 
-**3.** Select either **click here** under **Update your payment method** or **Cancelling your order** to receive an email link that will take you through the process.
+**3.** Select **click here** under **Update your payment method** to receive an email link that will take you through the process.
+
+### Enabling customer cancellations in the no-login customer portal
+
+Downpay includes an optional feature to allow customers to cancel their own orders. To enable this feature, navigate to the Downpay app and click **Settings** in the Shopify left hand toolbar and check **Enable customer cancellations**. 
