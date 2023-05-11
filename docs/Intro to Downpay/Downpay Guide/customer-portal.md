@@ -26,9 +26,10 @@ Navigate to the **Classic customer accounts** template you are using from the dr
 
 **4.** Select an order from the order list provided and hover below the order details section until you see a **+**. Click **Add block** and select the block named **Downpay App**. -->
 
-## Setting up the no-login order management customer portal
+## Setting up the order management customer portal
 
-A script will need to be installed into the order status page to enable the no-login order management portal.
+A script will need to be installed into the order status page to enable the Downpay order management customer portal.
+
 #### Steps
 
 **1.** Navigate to your store's settings page from the ⚙️ located in the left navigation bar.
@@ -55,7 +56,19 @@ A script will need to be installed into the order status page to enable the no-l
 
 **3.** Click **Save** at the top right of the settings page.
 
-### How to use the no-login customer portal
+### Order management customer portal settings
+
+By default, the order management portal allows customers to update their payment method. The portal offers an optional feature for customers to cancel their own orders. You may also enable refunding the deposit once you enable the cancellation feature.
+
+#### Steps
+
+**1.** Navigate to Downpay and click **Settings** from the left navigation bar
+
+**2.** To allow cancellations, check the box labelled **Enable customer cancellations**
+
+**3**. To also also deposits to be refunded with the cancellation, check the box labelled **Refund deposits on cancellations**
+
+### How to use the portal
 
 Customers can access the portal using the order status page. This page is accessible after checkout or using the **View your order** link in the their order confirmation email.
 
@@ -70,3 +83,7 @@ Customers can access the portal using the order status page. This page is access
 ### Enabling customer cancellations in the no-login customer portal
 
 Downpay includes an optional feature to allow customers to cancel their own orders. To enable this feature, navigate to the Downpay app and click **Settings** in the Shopify left hand toolbar and check **Enable customer cancellations**. 
+
+### Using the Downpay portal from Shopify classic customer accounts
+
+You may also include a link to the Downpay portal on your Shopify classic customer account portal. To set this up, please contact us at[support@hypehound.io](mailto:support@hypehound.io).
