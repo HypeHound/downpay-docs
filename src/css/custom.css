@@ -80,7 +80,8 @@
   --aa-primary-color-rgb: #33F5B1 !important;
 }
 
-::placeholder {
+input#autocomplete-0-input::placeholder {
+  color: white;
   color: white important!;
   --aa-text-color-rgb: #33F5B1 !important;
   --aa-primary-color-rgb: #33F5B1 !important;
@@ -90,4 +91,8 @@
   --aa-text-color-rgb: #33F5B1;
   --aa-primary-color-rgb: #33F5B1;
   border: 1px solid #33F5B1;
+}
+
+.dsla-search-wrapper {
+  width: 120px;
 }
