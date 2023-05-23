@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Downpay by Hypehound',
+  title: 'Downpay Docs',
   tagline: 'Deposits made simple',
   favicon: 'img/favicon.png',
 
@@ -34,6 +34,15 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  plugins: [
+    [
+      require.resolve("@cmfcmf/docusaurus-search-local"), 
+      {
+        indexBlog: false,
+      }
+    ]
+  ],
 
   presets: [
     [
@@ -63,7 +72,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'Downpay by Hypehound - Documentation',
+        title: 'Downpay Docs',
         logo: {
           alt: 'Hypehound logo',
           src: 'img/logo.svg',
