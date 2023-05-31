@@ -86,7 +86,7 @@ Currently most of the Shopify Order Editing functionality is not compatible with
 
 ### Removing products from an order
 
-<ReactPlayer controls url='/order-editing.mp4'/>
+<ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/order-editing-remove.mp4'/>
 
 Navigate to the specific order you need to modify, click **Edit** at the top right and click **adjust quantity** and use the down arrow to lower the quantity. Shopify will modify the future payment amount in order to accomodate the new quantity. 
 
@@ -96,7 +96,7 @@ Shopify will not refund the deposit for the item that was removed, instead they 
 
 ### Adding products to an order
 
-<ReactPlayer controls url='/order-editing-add.mp4'/>
+<ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/order-editing-add.mp4'/>
 
 Currently, you can only add custom items to an order. Click **Edit** at the top right and click **Add custom item**. The cost of the product will be added to the future balance due. 
 
@@ -106,11 +106,12 @@ You may send customers an invoice however they do not need to pay off the total 
 
 ## Refunding fees or portions of an order
 
-<ReactPlayer controls url='/refunding.mp4'/>
+<ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/refunding.mov'/>
 
 Currently Shopify cannot refund just a deposit or just a future payment. The total is treated as one entity and can lead to strange behaviour for orders with deposits. Below are some trips to navigate refunds on Shopify until they made the necessary updates to their refunding system.
 
 ### Refunding shipping
+
 
 When offering discounted shipping, use the **Refund Shipping** section of the Shopify Refund page.
 
