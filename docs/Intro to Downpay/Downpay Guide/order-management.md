@@ -3,6 +3,7 @@ sidebar_position: 9
 slug: /order-management
 title: Managing orders
 ---
+import ReactPlayer from 'react-player'
 
 # Managing Orders
 
@@ -12,7 +13,7 @@ Downpay sets an order tag equal to the name of the purchase option that was crea
 
 ## Statuses
 
-Orders with purchase options will appear in your Shopify admin with a **Scheduled** fulfillment status. Orders with partial payments will have a **Partially paid** payment status.
+Orders with purchase options that have a specific date set for their release will appear in your Shopify admin with a **Scheduled** fulfillment status. Orders with time after checkout date will appear as **On Hold** and need to be manually moved to unfulfilled.  Orders with partial payments will have a **Partially paid** payment status.
 
 ## Mixed cart orders
 
@@ -79,6 +80,48 @@ When payment collection is set to manual mode in a Downpay purchase option, the 
 Selecting other payment term types will not email notify customers of changes to the expected payment collection date
 :::
 
-<!-- ### Automatic
+## Order Editing
 
-TBD -->
+Currently most of the Shopify Order Editing functionality is not compatible with partial payments. Below are ways to manage certain scenarios with these limitations.  
+
+### Removing products from an order
+
+<ReactPlayer controls url='/order-editing.mp4'/>
+
+Navigate to the specific order you need to modify, click **Edit** at the top right and click **adjust quantity** and use the down arrow to lower the quantity. Shopify will modify the future payment amount in order to accomodate the new quantity. 
+
+:::info
+Shopify will not refund the deposit for the item that was removed, instead they will use the funds to pay off a portion of the future payment and issue a refund if the deposit is greater than the remaining due amount.  
+:::
+
+### Adding products to an order
+
+<ReactPlayer controls url='/order-editing-add.mp4'/>
+
+Currently, you can only add custom items to an order. Click **Edit** at the top right and click **Add custom item**. The cost of the product will be added to the future balance due. 
+
+:::info
+You may send customers an invoice however they do not need to pay off the total right away. The saved credit card is still available on the order with the new updated total and can be be charged later. 
+:::
+
+## Refunding fees or portions of an order
+
+<ReactPlayer controls url='/refunding.mp4'/>
+
+Currently Shopify cannot refund just a deposit or just a future payment. The total is treated as one entity and can lead to strange behaviour for orders with deposits. Below are some trips to navigate refunds on Shopify until they made the necessary updates to their refunding system.
+
+### Refunding shipping
+
+When offering discounted shipping, use the **Refund Shipping** section of the Shopify Refund page.
+
+### Refunding portions of products
+
+When offering discounts due to delays or for other reasons, use the **Summary** section of the Refund page without change the quantity of the product. 
+
+:::caution
+We discourage use of refunding to adjust the quantity of products in an order with deposits as the refund is not deposit or future payment specific and can cause discrepencies such as **Paid by Customer** not reflecting any refunded amounts and overcharging taxes and having to file a second refund. 
+:::
+
+## Draft Orders
+
+Currently, Shopify does not support deposits on draft orders. Once this functionality is released, Downpay will be fully compatible. 
