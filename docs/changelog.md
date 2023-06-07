@@ -3,6 +3,7 @@ sidebar_position: 7
 slug: /changelog
 title: Changelog and Roadmap
 ---
+
 ## Upcoming roadmap
 
 - Limiting total amount of orders for a specific purchase option
@@ -13,7 +14,7 @@ title: Changelog and Roadmap
 
 ### Latest Enhancements (May 2023 - Present)
 
-- Bulk add products to an existing purchase option using Shopify's bulk editor [read more](/docs/Downpay%20Workflows/bulk-workflows.md)
+- Bulk add products to an existing purchase option using Shopify's bulk editor
 - Add variant to purchase option (available upon request)
 - Cancellation confirmation: Add link to cancellation policy
 - Various copy changes (Cancellation email, error messages, estimated date email, product selector) 
@@ -30,7 +31,7 @@ title: Changelog and Roadmap
 - Customizable copy for "Add to Cart" button
 - Various copy changes
 - Get support button in app
-- Customer portal for updating payment method and cancelling orders [read more](/docs/Initial%20Setup/customer-portal.md)
+- Customer portal for updating payment method and cancelling orders
 - Onboarding flow in app
 - Manual payment collection via order details page
 - $ and % based deposits
