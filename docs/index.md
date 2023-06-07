@@ -1,7 +1,14 @@
 ---
 sidebar_position: 1
-slug: /overview
+slug: /
+title: Intro to Downpay
 ---
+
+Welcome to Downpay! On this site you can find information about how to use Downpay for a variety of use cases and where to get further support if you need it. Check out the [overview](./1-overview.md) to understand our key features, pricing and use cases we support.
+
+To get started with, follow our [comprehensive guide](./Initial%20Guide/index.md) for step by step instructions.
+
+If you have any questions, feel free to email us at [support@hypehound.io](mailto:support@hypehound.io)
 
 # Overview
 
@@ -26,6 +33,10 @@ If you've run out on products that are coming back in stock soon, you can use Do
 ### High-end Products
 
 If you're selling products that are challenging for customers to pay off in full at checkout, you can use Downpay as a layaway solution to split their payment in two and make it easier on their wallets. This method is also useful when your high end products are coupled with long shipping times.
+
+### Try before you buy
+
+If you're looking to offer customers the chance to try products before being charged, you can defer payment for a given amount of time and only charge if the customer does not return the prdouct within the window.
 
 ## Key features
 

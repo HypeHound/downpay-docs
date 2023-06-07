@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 slug: /installing-to-themes
 title: Installing Downpay to themes
 ---

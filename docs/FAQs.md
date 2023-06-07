@@ -21,9 +21,17 @@ slug: /faqs
 </details>
 
 <details>
-  <summary>Can I have more than one plan on a specific Product?</summary>
+  <summary>Can I have more than one plan on a specific product?</summary>
   <div>
     <div>Technically Downpay allows you to create more than one plan per product however only the first created plan for that product will appear on your storefront.</div>
+    <br/>
+  </div>
+</details>
+
+<details>
+  <summary>Do you support adding products to a purchase option by collection?</summary>
+  <div>
+    <div>Unfortunately Smart collections do not expose a way to detect when products are added or removed from them. That means we have no way to keep purchase option and smart collection membership in sync. To get around this, customers can use the bulk editor to add products to a purchase option.</div>
     <br/>
   </div>
 </details>
