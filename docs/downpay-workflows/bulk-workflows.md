@@ -9,7 +9,7 @@ Bulk workflows help you manage products with purchase options more easily.
 ## Bulk adding products to a purchase option
 
 :::info Note
- In order to begin this workflow, you need to first have a purchase option created in Downpay. Follow this [guide](/docs/Initial%20Setup/creating-manual-options.md) first.
+ In order to begin this workflow, you need to first have a purchase option created in Downpay. Follow this [guide](/initial-setup) first.
 :::
 
 #### Steps

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-slug: /paypal-express
+slug: /payment-gateways
 title: Setting up supported payment gateways 
 ---
 
