@@ -48,6 +48,8 @@ Below is a breakdown of all the current features.
 
 ![Product block features](/img/product_theme_features.png)
 
+Boxes come prefilled with copy. If you'd like to remove the copy all together, place a <! ----> in the respective box. (remove the space between the ! and --)
+
 Have a request for additional functionality? Email us at [support@hypehound.io](mailto:support@hypehound.io).
 
 ### Cart block
