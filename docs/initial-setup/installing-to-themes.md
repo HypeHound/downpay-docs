@@ -7,7 +7,7 @@ title: Installing Downpay to themes
 ## Installing Downpay to your Storefront
 
 :::caution
-In order for purchase options to appear in your theme on products, Shopify Payments or Paypal Express with `approved` Automatic Payment status must be enabled. Follow the guide [here](/docs/Intro%20to%20Downpay/Downpay%20Guide/payment-gateways.md)
+In order for purchase options to appear in your theme on products, Shopify Payments or Paypal Express with `approved` Automatic Payment status must be enabled. Follow the guide [here](/docs/Initial%20Setup/payment-gateways.md)
 :::
 
 On first setup, Downpay will scan your store to determine if you are running an Online store 1.0 or 2.0 theme. Downpay will then suggest the correct setup instructions in app.

@@ -1,12 +1,12 @@
 ---
 sidebar_position: 1
 slug: /
-title: Intro to Downpay
+title: Downpay Overview
 ---
 
 Welcome to Downpay! On this site you can find information about how to use Downpay for a variety of use cases and where to get further support if you need it.
 
-To get started with, follow our [comprehensive guide](./Initial%20Setup/index.md) for step by step instructions.
+To get started with, follow our [comprehensive guide](/initial-setup) for step by step instructions.
 
 If you have any questions, feel free to email us at [support@hypehound.io](mailto:support@hypehound.io)
 
@@ -65,5 +65,5 @@ For any questions, please contact us in of the following ways:
 
 
 * Email us at: [support@hypehound.io](mailto:support@hypehound.io)
-* Join our Discord community [here](https://discord.gg/9rfcd3jGUq) and engage with us and other merchants using Downpay
+<!-- * Join our Discord community [here](https://discord.gg/9rfcd3jGUq) and engage with us and other merchants using Downpay -->
 

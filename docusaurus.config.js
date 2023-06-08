@@ -68,7 +68,7 @@ const config = {
       image: 'img/HypehoundDocsBanner.png',
       colorMode: {
         defaultMode: 'dark',
-        disableSwitch: true,
+        disableSwitch: false,
         respectPrefersColorScheme: false,
       },
       navbar: {
@@ -98,12 +98,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Overview',
-                to: '/overview',
+                label: 'Downpay Overview',
+                to: '/',
               },
               {
-                label: 'Downpay Guide',
-                to: '/downpay-guide',
+                label: 'Initial Setup',
+                to: '/initial-setup',
               },
               {
                 label: 'FAQs',

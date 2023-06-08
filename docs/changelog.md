@@ -14,6 +14,7 @@ title: Changelog and Roadmap
 
 ### Latest Enhancements (May 2023 - Present)
 
+- Adding optional payment method icons to Themes 2.0 Downpay block
 - Bulk add products to an existing purchase option using Shopify's bulk editor
 - Add variant to purchase option (available upon request)
 - Cancellation confirmation: Add link to cancellation policy
