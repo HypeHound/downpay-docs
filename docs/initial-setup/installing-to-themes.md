@@ -14,9 +14,9 @@ On first setup, Downpay will scan your store to determine if you are running an 
 
 ## Online Store 2.0 Themes
 
-### Installing Downpay blocks into your storefront
+### Installing Downpay Product and Cart blocks into your storefront
 
-If you are running a new Online Store 2.0 theme that supports app blocks, you can add Downpay to your store in a the product page and the cart template.
+If you are running a new Online Store 2.0 theme that supports app blocks, you can add Downpay to your store in a the product page and the cart templates.
 
 #### Steps
 
@@ -37,6 +37,22 @@ Click the Downpay block to customize the content displayed
 **6.** To add deposit totals, hover near the cart total area until you see a **+**. Click **Add block** and select the block named **Downpay App**
 
 **7.** Click **Save** at the top right to finish setup.
+
+## Downpay theme block features
+
+### Product block features
+
+The Product block includes several features to help you customize the look of the Downpay purchase options block.
+
+Below is a breakdown of all the current features.
+
+![Product block features](/img/product_theme_features.png)
+
+Have a request for additional functionality? Email us at [support@hypehound.io](mailto:support@hypehound.io).
+
+### Cart block
+
+The cart block features an amount due today and an amount due later. Currently these are not customizable but CSS can be used to adjust the look and feel.
 
 ## Legacy Themes
 
