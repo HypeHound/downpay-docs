@@ -118,8 +118,3 @@ input#autocomplete-0-input::placeholder {
 .navbar__title {
   color:white;
 }
-
-.clean-btn {
-  background-color: white !important;
-  color: #000000 !important;
-}
