@@ -30,6 +30,18 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='light'] {
+  --ifm-color-primary: #000000;
+  --ifm-color-primary-dark: #2AC992;
+  --ifm-color-primary-darker: #407D68;
+  --ifm-color-primary-darkest: #407D68;
+  --ifm-color-primary-light: #35FCB7;
+  --ifm-color-primary-lighter: #81FDD2;
+  --ifm-color-primary-lightest: #81FDD2;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
 .alert--success {
   --ifm-alert-background-color: #16765464;
   --ifm-alert-background-color-highlight: #33F5B1;
@@ -60,10 +72,14 @@
 }
 
 .aa-DetachedContainer {
-  background: #193c47 !important;
+  background: #000000 !important;
   bottom: 0;
   box-shadow: 0 0 0 1px #23263b1a,0 6px 16px -4px #23263b26;
   box-shadow: var(--aa-panel-shadow);
+}
+
+.aa-DetachedCancelButton {
+  color: white !important;;
 }
 
 .aa-DetachedContainer .aa-Panel {
@@ -95,4 +111,15 @@ input#autocomplete-0-input::placeholder {
 
 .dsla-search-wrapper {
   width: 120px;
+  color:white !important;
+  background-color: white !important;
+}
+
+.navbar__title {
+  color:white;
+}
+
+.clean-btn {
+  background-color: white !important;
+  color: #000000 !important;
 }
