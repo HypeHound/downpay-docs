@@ -106,6 +106,10 @@ const config = {
                 to: '/initial-setup',
               },
               {
+                label: 'Workflows',
+                to: '/workflows',
+              },
+              {
                 label: 'FAQs',
                 to: '/faqs',
               },
@@ -120,12 +124,12 @@ const config = {
                 href: 'https://www.hypehound.io/about',
               },
               {
-                label: 'Discord',
-                href: 'https://discord.gg/9rfcd3jGUq',
-              },
-              {
                 label: 'Twitter',
                 href: 'https://twitter.com/hypehound_apps',
+              },
+              {
+                label: 'App listing',
+                href: 'https://apps.shopify.com/downpay',
               },
             ],
           },
