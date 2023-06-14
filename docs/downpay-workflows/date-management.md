@@ -1,48 +1,52 @@
 ---
 sidebar_position: 1
 slug: /date-management
-title: Adjusting language and dates storefront and checkout
+title: Adjusting Language and Dates in Storefront and Checkout
 ---
 
-Adjusting language and hiding dates has become easier for orders with Downpay Purchase Options. 
+## Introduction
 
-## Product Page
+This documentation provides instructions on how to adjust the language and hide dates for orders with Downpay Purchase Options. The following sections outline the steps to customize language and dates in different parts of your storefront and checkout process.
 
-Theme block now includes a customizable help text, release date functionality and more. Adjust as needed using the Downpay theme block. 
+### Product Page
 
+The Downpay theme block now offers enhanced customization options, including a customizable help text and release date functionality. To make adjustments, follow these steps:
 
-## Cart
+1. Locate the Downpay theme block on the Product Page.
+2. Customize the desired elements according to your needs.
 
-Card no longer surfaces a date, we are working on a customizable product description to allow merchants to change "Deposit only due at checkout".
+### Cart
 
-## Checkout Order Summary
+We are developing a customizable product description that will allow merchants to change the default text "Deposit only due at checkout."
 
-Language and date display at Checkout can be changed using the **Edit default theme content** button found in Online store found in the **...** menu beside your respective theme.
+### Checkout Order Summary
 
-### Steps to hide due date on Checkout
+To modify the language and date display in the Checkout Order Summary, use the following steps:
 
-**1.** Once inside the theme content section, click **Checkout & system** or the **...** to find this option if it's not visible.
+1. In the Online Store section, navigate to your respective theme.
+2. Click the **...** menu and select **Edit default theme content**.
+3. Within the theme content section, find the **Checkout & system** option (if not visible, search for it using the **...** menu).
+4. Scroll down to the **Checkout order summary** section and locate the **Deferred total due date label**.
+5. Modify the default copy to something like **Total due later** or **Total due before delivery**.
 
-**2.** Scroll far down until you find the **Deferred total due date label** under the **Checkout order summary** section and modify the default copy to something like **Total due later** or **Total due before delivery**.
+### Checkout Order Confirmation Page
 
+To hide the due date on the Checkout Order Confirmation page, follow these steps:
 
-## Checkout Order Confirmation Page
+1. In the Online Store section, navigate to your respective theme.
+2. Click the **...** menu and select **Edit default theme content**.
+3. Within the theme content section, find the **Checkout & system** option (if not visible, search for it using the **...** menu).
+4. Scroll down to the **Checkout order summary deferred payment info** section and locate the **Title**.
+5. Modify the default copy to something like **Payment of {{ amount_due }} is due before the product ships**.
+6. Scroll further down to the **Checkout order summary payment terms totals** section and locate **Due later**.
+7. Modify the default copy to something like **Total due later**.
 
-### Steps to hide due date on Checkout order confirmation 
+### Email Confirmation
 
-**1.** Once inside the theme content section, click **Checkout & system** or the **...** to find this option if it's not visible.
+To hide the due date on the email confirmation, follow these steps:
 
-**2.** Scroll far down until you find the **Title** under the **Checkout order summary deferred payment info** section and modify the default copy to something like **Payment of {{ amount_due }} is due before the product ships.**.
+1. Open **Shopify settings**, click the **Notifications** subsection, and scroll down to **Order confirmation**. Click **Edit**.
+2. Click into the email body and search for "due". You should find one around line 457, which you can change from the date to **later** within the span tag.
+3. Around line 606, find **{{ payment_terms.translated_name }}: Due {{ due_date | date: format: 'date' }}**, which you can change to: **{{ payment_terms.translated_name }}: Due later**.
 
-**3.** Scroll far down until you find the **Due later** under the **Checkout order summary payment terms totals** section and modify the default copy to something like **Total due later**.
-
-
-## Email confirmation
-
-### Steps to hide due date on email confirmation
-
-**1.** Open **Shopify settings**, click the **Notifications** subsection and scroll down to **Order confirmation** and click **Edit**.
-
-**2** Click into the email body and search for "due". You should find one around line 457, which you can change from the date to **later** within the span tag.
-
-**3** Around line 606, find **{{ payment_terms.translated_name }}: Due {{ due_date | date: format: 'date' }}**, which you can change to: **{{ payment_terms.translated_name }}: Due later**
+These instructions will help you customize the language and hide dates at various stages of the purchasing process in your storefront and checkout flow.
