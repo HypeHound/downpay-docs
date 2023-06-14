@@ -68,7 +68,7 @@ const config = {
       image: 'img/HypehoundDocsBanner.png',
       colorMode: {
         defaultMode: 'dark',
-        disableSwitch: false,
+        disableSwitch: true,
         respectPrefersColorScheme: false,
       },
       navbar: {
@@ -142,7 +142,7 @@ const config = {
               },
               {
                 label: 'Book a chat',
-                href: 'https://calendly.com/hypehoundapps/30min?back=1&month=2023-02',
+                href: 'https://calendly.com/hypehoundapps/45min?month=2023-06',
               },
             ],
           },

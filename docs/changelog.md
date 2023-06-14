@@ -6,9 +6,13 @@ title: Changelog and Roadmap
 
 ## Upcoming roadmap
 
-- Limiting total amount of orders for a specific purchase option
+- Preorder support: Limiting total amount of orders for a specific purchase option
 - Enhanced onboarding
 - Downpay API
+- Preorder support: Limit cart to 1 preorder at a time
+- Preorder support: Custom Buy Now button
+
+Not seeing something you need? Submit a feature request [here](mailto:support@hypehound.io).
 
 ##  Changelog
 

@@ -26,11 +26,15 @@ Once Downpay is open, you can pin the app to your admin left navigation bar by u
 
 **4.** Name your purchase option by inserting a title into the **Purchase option name** field. This field will also be used as an order tag.
 
-**5.** Click **Select product(s)** and use the search bar or select the product(s) you wish to create a purchase option for.
+**5.** Click **Select product(s) or variant(s)** and use the search bar or scroll to find the products you wish to include.
+
+:::tip 
+If you want to bulk select products, view [our bulk workflow guide](/bulk-workflows).
+:::
 
 **6.** Select whether you would like to offer a deposit on your purchase option as either a percentage or an exact amount.
 
-<!-- - To also enable the **Full Payment** purchase option, check the box titled  **Enable Full Payment Option** -->
+To disable the **Full Payment** purchase option, uncheck the box titled  **Give customers the option to pay in full**
 
 **7.** Select the date at which you estimate your product will be available.
 - Exact dates are useful for upcoming preorders with specific release dates. Exact dates can also be used as estimations and be changed later on.
