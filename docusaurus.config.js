@@ -67,8 +67,8 @@ const config = {
       // Replace with your project's social card
       image: 'img/HypehoundDocsBanner.png',
       colorMode: {
-        defaultMode: 'dark',
-        disableSwitch: true,
+        defaultMode: 'light',
+        disableSwitch: false,
         respectPrefersColorScheme: false,
       },
       navbar: {
@@ -121,7 +121,7 @@ const config = {
           
               {
                 label: 'About',
-                href: 'https://www.hypehound.io/about',
+                href: 'https://hypehound.io/blog/Meet-the-founders/',
               },
               {
                 label: 'Twitter',
