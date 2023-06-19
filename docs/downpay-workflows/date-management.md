@@ -3,6 +3,7 @@ sidebar_position: 1
 slug: /date-management
 title: Adjusting Language and Dates in Storefront and Checkout
 ---
+import ReactPlayer from 'react-player'
 
 ## Introduction
 
@@ -26,8 +27,23 @@ To modify the language and date display in the Checkout Order Summary, use the f
 1. In the Online Store section, navigate to your respective theme.
 2. Click the **...** menu and select **Edit default theme content**.
 3. Within the theme content section, find the **Checkout & system** option (if not visible, search for it using the **...** menu).
-4. Scroll down to the **Checkout order summary** section and locate the **Deferred total due date label**.
-5. Modify the default copy to something like **Total due later** or **Total due before delivery**.
+
+
+#### Change date label for deposit orders on Checkout
+
+To hide the due date on Checkout, follow these steps:
+
+1. Scroll down to the **Checkout order summary** section and locate the **Deferred total due date label**.
+2. Modify the default copy to something like **Total due later** or **Total due before delivery**.
+
+#### Change "Subscription policy" language on Checkout
+
+<ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/checkout-policy.mp4'/>
+
+Due to a bug on Shopify, deposit cancellation policy is mislabled as **Subscription Policy** on checkout. Follow these steps to change it: 
+
+1. Scroll down to the **Checkout shop policies** section and locate the **Subscription policy**.
+2. Modify the default copy to something like **Cancellation policy**.
 
 ### Checkout Order Confirmation Page
 

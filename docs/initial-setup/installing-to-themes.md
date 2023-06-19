@@ -56,7 +56,7 @@ The cart block features an amount due today and an amount due later. Currently t
 
 ## Legacy Themes
 
-To install Downpay into legacy (non-2.0) themes [contact us](mailto:support@hypehound.io) and we will set everything up for you. 
+To install Downpay into legacy themes [contact us](mailto:support@hypehound.io) and we will set everything up for you. 
 
 <!-- **1.** Find the store's theme and navigate to "Edit Files."
 
@@ -101,3 +101,4 @@ Find the customer orders template or section and add the following line above th
 ``{% render 'downpay-customer-order' %}``
 
 For further help with legacy themes installation, please reach out to us at [support@hypehound.io](mailto:support@hypehound.io).
+-->
