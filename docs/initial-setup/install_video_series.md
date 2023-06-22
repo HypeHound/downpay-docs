@@ -35,7 +35,7 @@ These four quick videos will help you get started with Downpay deposits quickly.
 <details><summary>4. Updating your cancellation policy</summary>
 <p>
 
-#### Let's customize your cancellation policy to ensure customers 
+#### Let's customize your cancellation policy to ensure customers understand your terms
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_policy.mp4'/>
 </p>
 </details>
