@@ -88,7 +88,7 @@ You may also include a link to the Downpay portal on your Shopify classic custom
 
 #### Steps
 
-**1.** Create a new snippet with the cold below in the **Snippets** folder to the corresponing theme called **downpay-customer-order.liquid**
+**1.** Create a new snippet with the code below in the **Snippets** folder to the corresponding theme called **downpay-customer-order.liquid**
 
 ```{% assign items_with_plans = order.line_items | where: 'selling_plan_allocation' %}
 {% if items_with_plans.size != 0 %}

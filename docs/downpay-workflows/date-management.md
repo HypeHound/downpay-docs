@@ -40,7 +40,7 @@ To hide the due date on Checkout, follow these steps:
 
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/checkout-policy.mp4'/>
 
-Due to a bug on Shopify, deposit cancellation policy is mislabled as **Subscription Policy** on checkout. Follow these steps to change it: 
+Due to a bug on Shopify, deposit cancellation policy is mislabeled as **Subscription Policy** on checkout. Follow these steps to change it: 
 
 1. Scroll down to the **Checkout shop policies** section and locate the **Subscription policy**.
 2. Modify the default copy to something like **Cancellation policy**.

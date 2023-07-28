@@ -120,7 +120,7 @@ When offering discounted shipping, use the **Refund Shipping** section of the Sh
 When offering discounts due to delays or for other reasons, use the **Summary** section of the Refund page without change the quantity of the product. 
 
 :::caution
-We discourage use of refunding to adjust the quantity of products in an order with deposits as the refund is not deposit or future payment specific and can cause discrepencies such as **Paid by Customer** not reflecting any refunded amounts and overcharging taxes and having to file a second refund. 
+We discourage use of refunding to adjust the quantity of products in an order with deposits as the refund is not deposit or future payment specific and can cause discrepancies such as **Paid by Customer** not reflecting any refunded amounts and overcharging taxes and having to file a second refund. 
 :::
 
 ## Draft Orders

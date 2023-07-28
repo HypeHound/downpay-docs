@@ -20,7 +20,7 @@ Shopify Payments is only supported in certain countries, please review support [
 
 PayPal Express is a great alternative for countries who do not have Shopify Payments. To enable Paypal Express, review Shopify's documentation found [here](https://help.shopify.com/en/manual/payments/paypal/set-up-paypal)
 
-Once enabled and with Downpay installed, Shopify will automatically send Paypal a request for approval of **Reference Transactions**. This is displayed in your Shopify Paypayl management screen as **Automatic Payments** with the status of **Pending Approval**. 
+Once enabled and with Downpay installed, Shopify will automatically send Paypal a request for approval of **Reference Transactions**. This is displayed in your Shopify Paypal management screen as **Automatic Payments** with the status of **Pending Approval**. 
 
 ### What is a reference transaction?
 
