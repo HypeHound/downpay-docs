@@ -4,7 +4,35 @@ slug: /faqs
 ---
 # FAQs
 
-## Workflow Questions
+
+## Compatibility Questions
+
+<details>
+  <summary>Does Downpay support draft orders?</summary>
+  <div>
+    <div>Draft orders are not compatible with any deposit app. As soon as Shopify adds support for draft orders, Downpay will work with them.</div>
+    <br/>
+  </div>
+</details>
+
+<details>
+  <summary>Does Downpay support subscriptions?</summary>
+  <div>
+    <div>Downpay can be used along side subscriptions, but you will not be able to offer a deposit on a subscription product.</div>
+    <br/>
+  </div>
+</details>
+
+<details>
+  <summary>Why is the "Buy Now" button gone on products with Downpay deposits?</summary>
+  <div>
+    <div>Shopify's buy button does not support deposits. We will be release our own in the coming months.</div>
+    <br/>
+  </div>
+</details>
+
+
+## Storefront Questions
 
 <details>
   <summary>Why can't I see deposit options on my product page?</summary>
@@ -31,6 +59,16 @@ slug: /faqs
 </details>
 
 <details>
+  <summary>Why does it say "Subscription policy" on my checkout?</summary>
+  <div>
+    <div>Shopify currently has a bug that displays "Subscription" instead of "Purchase Option" when Downpay is installed. To modify this, review our date management guide in the Workflows section.</div>
+    <br/>
+  </div>
+</details>
+
+## Setup Questions
+
+<details>
   <summary>How do I add Downpay to all my products?</summary>
   <div>
     <div>You can use the bulk editor in the Shopify product page to add products in groups of 50. If you have a large product catalog, contact us at support@hypehound.io and we can add a deposit plan to all products for you.</div>
@@ -38,31 +76,6 @@ slug: /faqs
   </div>
 </details>
 
-
-<details>
-  <summary>How do my customers manage their Downpay orders?</summary>
-  <div>
-    <div>After installing Downpay, you can enable the customer portal using our guide found in the Initial Setup section. In the Downpay general settings, you can enable cancellations within customer accounts. This will allow customers to manage their deposit orders without contacting your customer support. Orders cannot be cancelled by a customer once final payment has been collected. </div>
-    <br/>
-  </div>
-</details>
-
-
-<details>
-  <summary>Do customers have a way to finish paying off their order any any time?</summary>
-  <div>
-    <div>Customers will be able to use a "Pay Now" button on their order confirmation page. </div>
-    <br/>
-  </div>
-</details>
-
-<details>
-  <summary>Why does it says "Subscription policy" on my checkout?</summary>
-  <div>
-    <div>Shopify currently has a bug that displays "Subscription" instead of "Purchase Option" when Downpay is installed. To modify this, review our date management guide in the Workflows section.</div>
-    <br/>
-  </div>
-</details>
 
 <details>
   <summary>Can I have more than one plan on a specific product?</summary>
@@ -84,32 +97,26 @@ slug: /faqs
   <summary>How can Downpay be used to offer a trial instead of a deposit?</summary>
   <div>
     <div>Downpay can be used to offer a trial period where the remainder of the payment is only collected if the product is not returned. Simply create a plan with the deposit amount you wish the trial to cost and choose a period of time to offer the trial with the "number of days after checkout" release date option.</div>
+    <a href="https://hypehound.io/blog/guide-to-deposits/">Read more about use cases</a>
     <br/>
   </div>
 </details>
 
-## Compatibility Questions
+## Customer Workflow Questions
 
 <details>
-  <summary>Does Downpay support draft orders?</summary>
+  <summary>How do my customers manage their Downpay orders?</summary>
   <div>
-    <div>Draft orders are not compatible with any deposit app. As soon as Shopify adds support for draft orders, Downpay will work with them.</div>
+    <div>After installing Downpay, you can enable the customer portal using our guide found in the Initial Setup section. In the Downpay general settings, you can enable cancellations within customer accounts. This will allow customers to manage their deposit orders without contacting your customer support. Orders cannot be cancelled by a customer once final payment has been collected. </div>
     <br/>
   </div>
 </details>
 
-<details>
-  <summary>Does Downpay support subscriptions?</summary>
-  <div>
-    <div>Downpay can be used along side subscriptions, but you will not be able to offer a deposit on a subscription product.</div>
-    <br/>
-  </div>
-</details>
 
 <details>
-  <summary>Why is the "Buy Now" button gone on products with Downpay deposits?</summary>
+  <summary>Do customers have a way to finish paying off their order any any time?</summary>
   <div>
-    <div>Shopify's buy button does not support deposits. We will be release our own in the coming months.</div>
+    <div>Customers will be able to use a "Pay Now" button on their order confirmation page. </div>
     <br/>
   </div>
 </details>

@@ -55,9 +55,27 @@ Downpay key features:
 Hypehound encourages merchants to review [Shopify’s guidelines](https://help.shopify.com/en/manual/products/purchase-options/pre-orders) for managing preorder purchase options and also understand the current limitations.  
 :::
 
+## Compatibility notes
+
+When using deposits on Shopify, it’s important to be aware of certain limitations:
+
+* Deposits are available for stores using Shopify Payments or Paypal.
+
+* Deposits are only available on the Online store channel, while native deposits can be used for Shopify POS following this [guide](https://help.shopify.com/en/manual/sell-in-person/shopify-pos/payment-management/multiple-partial-payments).
+
+* Order editing supports removing a product with a deposit, but other modifications may not be supported.
+
+* Draft orders are not compatible with deposits.
+
+* Only one future payment collection is available for orders with deposits.
+
+* Buy now, pay later and subscription selling strategies do not support deposits but can be used together as separate options.
+
+* Deposits don’t support “Buy x, get y” discounts.
+
 ## Pricing plans
 
-Currently Downpay is in free private beta, pricing coming soon.
+Pricing can be reviewed our our [Shopify app store page](https://apps.shopify.com/downpay) or [website](https://hypehound.io/#pricing). 
 
 ## Where to get help
 
