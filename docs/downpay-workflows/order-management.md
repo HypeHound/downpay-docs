@@ -104,6 +104,10 @@ Currently, you can only add custom items to an order. Click **Edit** at the top 
 You may send customers an invoice however they do not need to pay off the total right away. The saved credit card is still available on the order with the new updated total and can be be charged later. 
 :::
 
+### Exchanging a product in an order
+
+To exchange a deposit product on an order, you can remove the deposit product from the order using the order editing flow. You'll need to remove the deposit product first, save the order and enter into order editing again to add a product using the **Add product** search box. This will allow you to still collect the remainder payment in the future.
+
 ## Refunding fees or portions of an order
 
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/refunding.mov'/>
