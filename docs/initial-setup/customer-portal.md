@@ -84,7 +84,7 @@ Customers can access the portal using the order status page. This page is access
 
 ### Using the Downpay portal from Shopify classic customer accounts
 
-You may also include a link to the Downpay portal on your Shopify classic customer account portal. To set this up, please contact us at [support@hypehound.io](mailto:support@hypehound.io or if you are comfortable with editing your theme code, use the instructions below: 
+You may also include a link to the Downpay portal on your Shopify classic customer account portal. To set this up, please contact us at [support@hypehound.io](mailto:support@hypehound.io) or if you are comfortable with editing your theme code, use the instructions below: 
 
 #### Steps
 

@@ -18,21 +18,23 @@ For detailed instructions, review the [Installing Downpay](/installing-downpay)
 </p>
 </details>
 
-<details><summary> 2. Setting up your first purchase option</summary>
-<p>
-
-#### We'll go through how to offer your first deposit
-<ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_create_option.mp4'/>
-For detailed instructions, review [Creating purchase options](/creating-purchase-options)
-</p>
-</details>
-
 <details><summary>3. Installing Downpay's theme blocks</summary>
 <p>
 
 #### Now that we have our first product with a deposit, we will enable theme blocks to display deposits on the storefront.
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_blocks.mp4'/>
+
 For detailed instructions, review [Installing Downpay to themes](/installing-to-themes)
+</p>
+</details>
+
+<details><summary> 2. Setting up your first purchase option</summary>
+<p>
+
+#### We'll go through how to offer your first deposit
+<ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_create_option.mp4'/>
+
+For detailed instructions, review [Creating purchase options](/creating-purchase-options)
 </p>
 </details>
 
@@ -41,6 +43,7 @@ For detailed instructions, review [Installing Downpay to themes](/installing-to-
 
 #### Let's customize your cancellation policy to ensure customers understand your terms
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_policy.mp4'/>
+
 For detailed instructions, review [Creating a cancellation policy](/customer-purchase-policy)
 </p>
 </details>
