@@ -30,7 +30,7 @@ Below we have listed our permissions details and reasoning:
 | Read/Write Products | Used to keep track of products and associate them with core functionality. Write permissions are used to toggle the **Only show this product with these purchase options** box automatically for merchants.|
 | Write Purchase Options | Used to enable Downpay to create different selling plans on products, such as deposits. |
 | Read Payment Terms | With each order enabled through the app, the customer's payment information is stored in a secure vault made available by Shopify. This access scope allows the app to read these payment terms, so that it can help manage workflows around orders and deferred payments on those orders. |
-| Read/Write Payment Mandates | Used to issue a charge to the customer's payment method at a time later than checkout - for example a partial paid preorder. |
+| Read/Write Payment Mandates | Used to issue a charge to the customer's payment method at a time later than checkout - for example a partial paid pre order. |
 | Read Themes | Used to detect support for app blocks on storefront. |
 | Read Locales | Used to offer you a localized experience for your region. |
 | Write draft orders | Used for experiences focused on draft orders. |

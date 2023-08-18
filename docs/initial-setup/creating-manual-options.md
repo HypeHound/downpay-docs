@@ -29,7 +29,7 @@ Once Downpay is open, you can pin the app to your admin left navigation bar by u
 **5.** Click **Select product(s) or variant(s)** and use the search bar or scroll to find the products you wish to include.
 
 :::tip 
-If you want to bulk select products, view [our bulk workflow guide](/bulk-workflows).
+If you want to bulk select products, view [our bulk workflow guide](/bulk-workflows). For large product catalogs, contact us and we will apply to all or certain tags.
 :::
 
 **6.** Select whether you would like to offer a deposit on your purchase option as either a percentage or an exact amount.

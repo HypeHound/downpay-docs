@@ -32,7 +32,7 @@ You may only add 1 page (50 Products) to a Purchase Option at a time.
 **5.** Continue this workflow to add as many products as you require to a purchase option.
 
 :::info Note
-There is no limit to how many products can be added to a purchase option however the limit on viewing them within Downpay is currently 250.
+There is no limit to how many products can be added to a purchase option however the limit on viewing them within Downpay is currently 250. To add large product catalogs, contact us and we can apply to all or specific tags.
 :::
 
 :::tip Tip

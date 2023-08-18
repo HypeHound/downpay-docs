@@ -56,49 +56,37 @@ The cart block features an amount due today and an amount due later. Currently t
 
 ## Legacy Themes
 
-To install Downpay into legacy themes [contact us](mailto:support@hypehound.io) and we will set everything up for you. 
+To install Downpay into legacy themes, Downpay's onboarding offers a once click theme install button with an app embed. Make sure to hit save after the embed has been enabled.
 
-<!-- **1.** Find the store's theme and navigate to "Edit Files."
+Alternatively, you can navigate to the **app embeds** section of the respective theme in Shopify's theme editor and toggle the Downpay embed on. 
 
-**2.** Request the latest assets from [Downpay support](mailto:support@hypehound.io)
+You may also click the Downpay Embed for several options to help you design the look and feel of your purchase option box. 
 
-**3.** Copy the following files from the app's extensions/preorder-basic/assets folder into the theme's Assets folder:
-`downpay-cart.css, downpay-cart.js, downpay-product.css, downpay-product.js`
+![Product legacy app embed](/img/legacy-dp-product-embed.png)
 
-**4.** Create two new snippets titled **downpay-purchase-options-box.liquid** and **downpay-cart-subtotals.liquid** and copy the respective content from:
-`downpay-purchase-options-box.liquid, downpay-cart-subtotals.liquid`
+### Modifying placement of the embed 
 
-**5.** Copy all the files from the app's extensions/preorder-basic/locales folder into the theme's Locales folder.
+In the Downpay embed, the **HTML element to insert after** will allow you to move the purchase option box around the product page. The box will be inserted after the selector that is in the box. 
 
-**6.** Locate the liquid template in the theme that renders the product page. It could be templates/product.liquid, snippets/product-template.liquid, or sections/product-template.liquid. 
+Two options to modifying the placement of the box are:
+- Unique element id attribute
+- Unique CSS Class
 
-In that template, find the product form element, and choose a suitable place to insert the Downpay block. A recommended location is underneath the quantity selector. Insert the following code:
+#### Steps
 
-```{% render 'downpay-purchase-options-box' %}```
+1. Locate the HTML element that you want to insert the box after
 
-**7.** Similarly, locate the cart template in the theme. It might be named templates/cart.template or snippets/cart-template.liquid. Find where the subtotals are displayed and insert the following line of code above the subtotals block:
+2. Find the unique CSS or element id attribute and then insert this into the box in the Downpay embed
 
-```{% render 'downpay-cart-subtotals' %}```
+**Example** 
+Let’s say you want to insert after this element under the cart button, find HTML element you want to insert under and determine it's unique css class or unique element id attribute. 
 
-### Customer Account
+In this example I want to insert the options below the add to cart button so my id would be **addToCartForm-product-template**. The classes are likely not unique and may cause issues.
 
-To set up the customer account, follow these steps:
-
-Create a new snippet called downpay-customer-order.liquid and place it in the Snippets folder.
-Add the following code to the snippet:
-
-```
-{% if items_with_plans.size != 0 %}
-  <p>
-    To manage your deferred payment
-    <a href="/apps/downpay?shop_id={{ shop.id }}&order_id={{ order.id }}">click here</a>
-  </p>
-{% endif %}
+```html
+<button type="submit" name="add" id="addToCart-product-template" class="btn btn--large btn--full">
+    <span class="add-to-cart-text">Preorder</span>
+</button>
 ```
 
-Find the customer orders template or section and add the following line above the order table:
-
-``{% render 'downpay-customer-order' %}``
-
-For further help with legacy themes installation, please reach out to us at [support@hypehound.io](mailto:support@hypehound.io).
--->
+As for syntax, classes will be inserted as `.class` and element ids will be `#id`.

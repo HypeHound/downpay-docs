@@ -71,7 +71,7 @@ slug: /faqs
 <details>
   <summary>How do I add Downpay to all my products?</summary>
   <div>
-    <div>You can use the bulk editor in the Shopify product page to add products in groups of 50. If you have a large product catalog, contact us at support@hypehound.io and we can add a deposit plan to all products for you.</div>
+    <div>You can use the bulk editor in the Shopify product page to add products in groups of 50. If you have a large product catalog, contact us at support@hypehound.io and we can add a deposit plan to all products for you or to specific tags.</div>
     <br/>
   </div>
 </details>
