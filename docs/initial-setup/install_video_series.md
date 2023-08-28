@@ -42,12 +42,12 @@ For themes 2.0, enable our product block using the in-app onboarding guide.
 
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/2.0_productblock_install.mov'/>
 <p></p>
-For legacy themes, enable our product block using the in-app onboarding guide.
+For legacy themes, enable our product block using the in-app onboarding guide. If you are not able to see the purchase options after enabling the embed, contact us so we can enable support for your specific legacy or custom theme.
 <p></p>
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/legacy_theme_install.mov'/>
 <p></p>
 
-For detailed instructions, review [Installing Downpay to themes](/installing-to-themes)
+For detailed instructions, review [Installing Downpay to themes](/installing-to-themes).
 </p>
 </details>
 
