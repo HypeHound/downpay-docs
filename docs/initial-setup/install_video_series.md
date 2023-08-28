@@ -13,23 +13,9 @@ These four quick videos will help you get started with Downpay deposits quickly.
 #### This video will teach you how to install Downpay
 
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_install.mp4'/>
+<p></p>
 
 For detailed instructions, review the [Installing Downpay](/installing-downpay)
-</p>
-</details>
-
-<details><summary>3. Installing Downpay's theme blocks</summary>
-<p>
-
-#### Now that we have our first product with a deposit, we will enable theme blocks to display deposits on the storefront.
-
-For 2.0 themes, enable our blocks using the in-app onboarding guide or follow this video:
-
-<ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_blocks.mp4'/>
-
-For legacy themes, enable our app embed using the in-app onboarding guide found on the Downpay overview screen.
-
-For detailed instructions, review [Installing Downpay to themes](/installing-to-themes)
 </p>
 </details>
 
@@ -38,16 +24,40 @@ For detailed instructions, review [Installing Downpay to themes](/installing-to-
 
 #### We'll go through how to offer your first deposit
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_create_option.mp4'/>
+<p></p>
 
 For detailed instructions, review [Creating purchase options](/create-options)
 </p>
 </details>
+
+
+<details><summary>3. Installing Downpay's theme blocks</summary>
+<p>
+
+#### Now that we have our first product with a deposit, we will enable theme blocks to display deposits on the storefront.
+
+Downpay's in-app onboarding offers a one click theme install option for both 2.0 and Legacy themes. 
+
+For themes 2.0, enable our product block using the in-app onboarding guide.
+
+<ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/2.0_productblock_install.mov'/>
+<p></p>
+For legacy themes, enable our product block using the in-app onboarding guide.
+<p></p>
+<ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/legacy_theme_install.mov'/>
+<p></p>
+
+For detailed instructions, review [Installing Downpay to themes](/installing-to-themes)
+</p>
+</details>
+
 
 <details><summary>4. Updating your cancellation policy</summary>
 <p>
 
 #### Let's customize your cancellation policy to ensure customers understand your terms
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_policy.mp4'/>
+<p></p>
 
 For detailed instructions, review [Creating a cancellation policy](/customer-purchase-policy)
 </p>
