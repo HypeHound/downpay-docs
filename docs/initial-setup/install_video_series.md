@@ -39,7 +39,7 @@ For detailed instructions, review [Installing Downpay to themes](/installing-to-
 #### We'll go through how to offer your first deposit
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_create_option.mp4'/>
 
-For detailed instructions, review [Creating purchase options](/creating-purchase-options)
+For detailed instructions, review [Creating purchase options](/creating-manual-options)
 </p>
 </details>
 
