@@ -22,7 +22,12 @@ For detailed instructions, review the [Installing Downpay](/installing-downpay)
 <p>
 
 #### Now that we have our first product with a deposit, we will enable theme blocks to display deposits on the storefront.
+
+For 2.0 themes, enable our blocks using the in-app onboarding guide or follow this video:
+
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_blocks.mp4'/>
+
+For legacy themes, enable our app embed using the in-app onboarding guide found on the Downpay overview screen.
 
 For detailed instructions, review [Installing Downpay to themes](/installing-to-themes)
 </p>

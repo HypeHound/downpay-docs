@@ -50,10 +50,6 @@ Below is a breakdown of all the current features.
 
 Have a request for additional functionality? Email us at [support@hypehound.io](mailto:support@hypehound.io).
 
-#### Cart block
-
-The cart block features an amount due today and an amount due later. Currently these are not customizable but CSS can be used to adjust the look and feel.
-
 ## Legacy Themes
 
 To install Downpay into legacy themes, Downpay's onboarding offers a once click theme install button with an app embed. Make sure to hit save after the embed has been enabled.
@@ -88,5 +84,11 @@ In this example I want to insert the options below the add to cart button so my 
     <span class="add-to-cart-text">Preorder</span>
 </button>
 ```
-
 As for syntax, classes will be inserted as `.class` and element ids will be `#id`.
+
+
+
+#### Cart block
+
+The cart block features an amount due today and an amount due later. Currently these are not customizable but CSS can be used to adjust the look and feel.
+
