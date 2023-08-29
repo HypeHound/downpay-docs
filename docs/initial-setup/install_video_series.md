@@ -1,16 +1,16 @@
 ---
 sidebar_position: 1
 slug: /quickstart_videos
-title: Quickstart videos
+title: Quick start video series
 ---
 import ReactPlayer from 'react-player'
 
-These four quick videos will help you get started with Downpay deposits quickly.
+This 5-ish minute video series will help you get started with Downpay quickly! If you'd prefer our help with your setup, please contact us anytime at [support@hypehound.io](mailto:support@hypehound.io).
 
 <details><summary>1. Installing Downpay</summary>
 <p>
 
-#### This video will teach you how to install Downpay
+#### This video will teach you how to install Downpay.
 
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_install.mp4'/>
 <p></p>
@@ -22,7 +22,7 @@ For detailed instructions, review the [Installing Downpay](/installing-downpay)
 <details><summary> 2. Setting up your first purchase option</summary>
 <p>
 
-#### We'll go through how to offer your first deposit
+#### Next we'll go through how to set up your first deposit on a product.
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_create_option.mp4'/>
 <p></p>
 
@@ -55,7 +55,7 @@ For detailed instructions, review [Installing Downpay to themes](/installing-to-
 <details><summary>4. Updating your cancellation policy</summary>
 <p>
 
-#### Let's customize your cancellation policy to ensure customers understand your terms
+#### Let's customize your cancellation policy to ensure customers understand your terms.
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_policy.mp4'/>
 <p></p>
 

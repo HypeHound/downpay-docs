@@ -4,7 +4,7 @@ slug: /order-confirmation-email
 title: Order Confirmation Email
 ---
 
-# Adding due now and due later fields to order confirmation emails
+# Adding deposit information to order confirmation emails
 
 There are "due now" and "due later" totals you can add to your order email confirmation. By default these are available in Shopify's default templates however if you have modified the templates, you will need to manually add this code in order to display these new subtotal fields. 
 

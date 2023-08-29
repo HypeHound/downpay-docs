@@ -10,7 +10,7 @@ This guide assumes you already have a product in your store that you are ready t
 
 ## Creating purchase options using Downpay's interface
 
-The goal of this guide is to help you create your first purchase option using Downpay's app interface.
+The goal of this guide is to help you create your first purchase option using Downpay's app interface and offer deposits on your products.
 
 #### Steps
 

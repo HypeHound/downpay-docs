@@ -24,9 +24,9 @@ slug: /faqs
 </details>
 
 <details>
-  <summary>Why is the "Buy Now" button gone on products with Downpay deposits?</summary>
+  <summary>Which languages does Downpay support?</summary>
   <div>
-    <div>Shopify's buy button does not support deposits. We will be release our own in the coming months.</div>
+    <div>Downpay includes 15 languages for all countries supported by Shopify Payments. Contact us to if you require an additional language.</div>
     <br/>
   </div>
 </details>

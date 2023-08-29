@@ -9,3 +9,5 @@ Title: Advanced setup
 # In this section
 
 [Modifying Order Confirmation email](./order-confirmation-email)
+
+[Cart refresh for accurate totals](./cart-refresh)
