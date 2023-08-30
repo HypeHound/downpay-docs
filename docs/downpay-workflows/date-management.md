@@ -11,7 +11,7 @@ This documentation provides instructions on how to adjust the language and hide 
 
 ### Product Page
 
-The Downpay theme block now offers enhanced customization options, including a customizable help text and release date functionality. To make adjustments, follow these steps:
+The Downpay theme block and embed now offers enhanced customization options, including a customizable help text and release date functionality. To make adjustments, follow these steps:
 
 1. Locate the Downpay theme block on the Product Page.
 2. Customize the desired elements according to your needs.
@@ -35,6 +35,20 @@ To hide the due date on Checkout, follow these steps:
 
 1. Scroll down to the **Checkout order summary** section and locate the **Deferred total due date label**.
 2. Modify the default copy to something like **Total due later** or **Total due before delivery**.
+
+#### Change customer payment charge approval language
+
+By default, the language found on the checkout page that customers have to read and agree to in order to proceed with their order includes broad recurring billing verbiage: 
+
+![Shopify customer checkout payment charge agreement](/img/checkout_card_vault.png)
+
+"I understand that one or more items in my cart is a deferred or recurring purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency, and dates listed on this page until my order is fulfilled or I cancel, if permitted."
+
+To modify this, follow these steps:
+
+1. Scroll down to the **Checkout payment** section and locate the **Purchase options agreement label**.
+2. Modify the default copy to something like **I understand that one or more items in my cart is a deferred. By continuing, I agree to the {{ cancellation_policy_label }} and authorize you to charge my payment method at the prices listed on this page until my order is fulfilled or I cancel, if permitted.**
+
 
 #### Change "Subscription policy" language on Checkout
 
