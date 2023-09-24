@@ -8,9 +8,17 @@ slug: /faqs
 ## Compatibility Questions
 
 <details>
+  <summary>Does Downpay support Bundles?</summary>
+  <div>
+    <div>Shopify's new bundle technology is not compatible with partial payments of any kind. As soon as Shopify adds support for draft orders, Downpay will support them!</div>
+    <br/>
+  </div>
+</details>
+
+<details>
   <summary>Does Downpay support draft orders?</summary>
   <div>
-    <div>Draft orders are not compatible with any deposit app. As soon as Shopify adds support for draft orders, Downpay will work with them.</div>
+    <div>Draft orders are not compatible with any deposit app. As soon as Shopify adds support for draft orders, Downpay will work support this workflow.</div>
     <br/>
   </div>
 </details>
@@ -62,6 +70,14 @@ slug: /faqs
   <summary>Why does it say "Subscription policy" on my checkout?</summary>
   <div>
     <div>Shopify currently has a bug that displays "Subscription" instead of "Purchase Option" when Downpay is installed. To modify this, review our date management guide in the Workflows section.</div>
+    <br/>
+  </div>
+</details>
+
+<details>
+  <summary>I'm getting an error on checkout with a deposit that says "This store is not accepting payments".</summary>
+  <div>
+    <div>This error is due to your store having payouts frozen by Shopify. In order to unblock Downpay, you must contact Shopify directly to unfreeze payouts.</div>
     <br/>
   </div>
 </details>

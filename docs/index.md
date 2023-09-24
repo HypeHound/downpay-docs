@@ -57,15 +57,17 @@ Hypehound encourages merchants to review [Shopify’s guidelines](https://help.s
 
 ## Compatibility notes
 
-When using deposits on Shopify, it’s important to be aware of certain limitations:
+When using any kind of partial or deferred payment on Shopify, it’s important to be aware of certain limitations. These limitations are imposed by Shopify and over time we hope they will be removed. Once they are, Downpay will seamlessly support the use cases below.
 
 * Deposits are available for stores using Shopify Payments or Paypal.
 
 * Deposits are only available on the Online store channel, while native deposits can be used for Shopify POS following this [guide](https://help.shopify.com/en/manual/sell-in-person/shopify-pos/payment-management/multiple-partial-payments).
 
-* Order editing supports removing a product with a deposit, but other modifications may not be supported.
-
 * Draft orders are not compatible with deposits.
+
+* Bundles apps like Shopify Bundles are not compatible of deposits
+
+* Order editing supports removing a product with a deposit, but other modifications may not be supported.
 
 * Only one future payment collection is available for orders with deposits.
 
@@ -76,6 +78,12 @@ When using deposits on Shopify, it’s important to be aware of certain limitati
 ## Pricing plans
 
 Pricing can be reviewed our our [Shopify app store page](https://apps.shopify.com/downpay) or [website](https://hypehound.io/#pricing). 
+
+Our pricing is designed with a minimal subscription fee to support businesses large and small and a variable usage fee based on how successful we are at helping you sell more, versus overall store sales.
+
+ We've designed our pricing to support a variety of business sizes and are always open to feedback, iteration and providing custom plans that make sense for your business. 
+
+[Contact us directly at support@hypehound.io](mailto:support@hypehound.io) to discuss pricing. 
 
 ## Where to get help
 
