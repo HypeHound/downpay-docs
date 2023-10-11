@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-slug: /payment-collection
+slug: /order-management
 title: Managing orders
 ---
 import ReactPlayer from 'react-player'

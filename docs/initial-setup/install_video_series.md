@@ -29,7 +29,7 @@ For Paypal express with automatic payments, review [enabling Paypal Express](/pa
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_create_option.mp4'/>
 <p></p>
 
-For detailed instructions, review [Creating purchase options](/create-options). If you'd like to bulk add products, review [Bulk workflows](/bulk-workflows)
+For detailed instructions, review [Creating purchase options](/create-options). If you'd like to bulk add products, review [Bulk workflows](/bulk-add-products)
 </p>
 </details>
 
