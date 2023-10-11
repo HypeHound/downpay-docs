@@ -5,17 +5,20 @@ title: Quick start video series
 ---
 import ReactPlayer from 'react-player'
 
-This 5-ish minute video series will help you get started with Downpay quickly! If you'd prefer our help with your setup, please contact us anytime at [support@hypehound.io](mailto:support@hypehound.io).
+This 5-ish minute video series will help you get started with Downpay quickly! Our in-app onboarding guide also helps you get started quickly. If you'd prefer our help with your setup, please contact us anytime at [support@hypehound.io](mailto:support@hypehound.io).
 
-<details><summary>1. Installing Downpay</summary>
+<details><summary>1. Set up a supported payment gateway</summary>
 <p>
 
-#### This video will teach you how to install Downpay.
+#### Set up a supported payment gateway: Shopify Payments or Paypal Express with Automatic Payments approved
 
-<ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_install.mp4'/>
 <p></p>
 
-For detailed instructions, review the [Installing Downpay](/installing-downpay)
+Shopify limits deposits to these two gateways. In order to see deposit options on your storefront, you must enabled one of these gateways to proceed with setup.
+
+To enable Shopify Payments, review Shopify's documentation found [here](https://help.shopify.com/en/manual/payments/shopify-payments/setting-up-shopify-payments)
+
+For Paypal express with automatic payments, review [enabling Paypal Express](/payment-gateways#enabling-paypal-express).
 </p>
 </details>
 
@@ -26,23 +29,25 @@ For detailed instructions, review the [Installing Downpay](/installing-downpay)
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/Downpay_create_option.mp4'/>
 <p></p>
 
-For detailed instructions, review [Creating purchase options](/create-options)
+For detailed instructions, review [Creating purchase options](/create-options). If you'd like to bulk add products, review [Bulk workflows](/bulk-workflows)
 </p>
 </details>
 
-
-<details><summary>3. Installing Downpay's theme blocks</summary>
+<details><summary>3. Installing Downpay's storefront theme blocks</summary>
 <p>
 
 #### Now that we have our first product with a deposit, we will enable theme blocks to display deposits on the storefront.
 
 Downpay's in-app onboarding offers a one click theme install option for both 2.0 and Legacy themes. 
 
-For themes 2.0, enable our product block using the in-app onboarding guide.
+<h4> Themes 2.0: Enable product block using the in-app onboarding guide or Shopify theme editor</h4>
 
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/2.0_productblock_install.mov'/>
 <p></p>
-For legacy themes, enable our product block using the in-app onboarding guide. If you are not able to see the purchase options after enabling the embed, contact us so we can enable support for your specific legacy or custom theme.
+
+<h4> Legacy themes: Enable product embed using the in-app onboarding guide or Shopify theme editor, embed menu</h4>
+
+<p> Purchase options not showing up after enabling the embed? Contact us so we can enable support for your specific legacy or custom theme.</p>
 <p></p>
 <ReactPlayer controls url='https://hypehound-public.s3.amazonaws.com/legacy_theme_install.mov'/>
 <p></p>

@@ -34,7 +34,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='light'] {
-  --ifm-color-primary: #000000;
+  --ifm-color-primary: #0e6949;
   --ifm-color-primary-dark: #2AC992;
   --ifm-color-primary-darker: #407D68;
   --ifm-color-primary-darkest: #407D68;
@@ -134,4 +134,23 @@ color:white !important;
 
 .clean-btn:hover {
   background-color:rgb(38, 38, 38);
+}
+
+.linkbtn {
+  color:white;
+  font-weight: 600;
+  background-color: black;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+  padding-right:0.5em;
+  border-radius: 0px 10px 0px 10px;
+}
+
+.linkbtn:hover {
+  color:white;
+  font-weight: 700;
+  border-style:none ridge ridge none;
+  border-color: #FFD569;
+  text-decoration: none;
 }

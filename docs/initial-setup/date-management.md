@@ -1,11 +1,13 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
 slug: /date-management
-title: Adjusting Language and Dates in Storefront and Checkout
+title: Adjusting language and hiding dates in Storefront and Checkout
 ---
 import ReactPlayer from 'react-player'
 
 ## Introduction
+
+While Downpay is required to set a date when creating a purchase option, sometimes businesses have a range instead of a specific date when orders will be ready to ship. This guide will help hide or modify language on your storefront to reflect this reality.
 
 This documentation provides instructions on how to adjust the language and hide dates for orders with Downpay Purchase Options. The following sections outline the steps to customize language and dates in different parts of your storefront and checkout process.
 

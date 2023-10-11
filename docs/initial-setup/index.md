@@ -14,13 +14,17 @@ This section is a comprehensive guide to setting up and using Downpay to create 
 
 [Installing Downpay](./installing-downpay.md)
 
+[Setting up supported payment gateways](/payment-gateways)
+
 [Installing Downpay to themes](./installing-to-themes.md)
 
 [Creating purchase options](./creating-manual-options.md)
 
-[Customer portal setup](./customer-portal.md)
+[Bulk add products](/bulk-add-products)
+
+[Enabling customer account](./customer-portal.md)
 
 [Creating a cancellation policy](./customer-purchase-policy.md)
 
-[Supported languages](./supported-languages.md)
+[Adjusting language and hiding dates in storefront and checkout](/date-management)
 

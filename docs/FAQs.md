@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 7
 slug: /faqs
 ---
 # FAQs
@@ -8,7 +8,7 @@ slug: /faqs
 ## Compatibility Questions
 
 <details>
-  <summary>Does Downpay support Bundles?</summary>
+  <summary>Does Downpay support bundles?</summary>
   <div>
     <div>Shopify's new bundle technology is not compatible with partial payments of any kind. As soon as Shopify adds support for draft orders, Downpay will support them!</div>
     <br/>

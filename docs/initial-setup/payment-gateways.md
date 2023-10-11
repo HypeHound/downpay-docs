@@ -1,12 +1,12 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 slug: /payment-gateways
 title: Setting up supported payment gateways 
 ---
 
 # How to use Shopify Payments or Paypal Express with Downpay
 
-Shopify allows two gateways to be used with partial payments, Shopify Payments and Paypal Express. One of these gateways must be enabled in order to see Downpay purchase options on products in your storefront. 
+Shopify allows two gateways to be used with deposits and deferred payments, Shopify Payments and Paypal Express. One of these gateways must be enabled in order to see Downpay purchase options on products in your storefront. 
 
 ## Enabling Shopify Payments
 

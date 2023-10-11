@@ -1,7 +1,7 @@
 ---
-sidebar_position: 1
-slug: /bulk-workflows
-title: Bulk Workflows
+sidebar_position: 6
+slug: /bulk-add-products
+title: Bulk add products
 ---
 import ReactPlayer from 'react-player'
 

@@ -52,7 +52,7 @@ Once you save a purchase option, it will become active. Ensure you’re working 
 :::
 
 
-::: caution
+:::caution Caution
 In order for purchase options to appear in your theme on products, Shopify Payments or Paypal Express with `approved` Automatic Payment status must be enabled
 :::
 

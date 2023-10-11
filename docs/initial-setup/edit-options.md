@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 8
 slug: /editing-plans
 title: Editing purchase options
 ---

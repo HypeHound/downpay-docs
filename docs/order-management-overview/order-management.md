@@ -1,44 +1,17 @@
 ---
 sidebar_position: 3
-slug: /order-management
+slug: /payment-collection
 title: Managing orders
 ---
 import ReactPlayer from 'react-player'
 
-# Managing Orders
+# Payment Collection
 
-## Viewing purchase plan orders
+### Sending invoices
 
-Downpay sets an order tag equal to the name of the purchase option that was created in Downpay. To view all orders under a purchase option, navigate to the Downpay app and click **View orders** beside the respective purchase option. You will be redirected to a filtered order page based on the respective tag.
+All non-multicurrency stores have the option to send invoices to customers directly from the Shopify order details page is an option. 
 
-## Statuses
-
-Orders with purchase options that have a specific date set for their release will appear in your Shopify admin with a **Scheduled** fulfillment status. Orders with time after checkout date will appear as **On Hold** and need to be manually moved to unfulfilled.  Orders with partial payments will have a **Partially paid** payment status.
-
-## Mixed cart orders
-
-Downpay allows mixed cart orders. These orders will have multiple cards in the order details page and will appear **Unfulfilled** until the in stock items are fulfilled. The order status will then change to **Scheduled**. 
-
-:::info Note
-Mixed cart orders collect entire shipping cost and some taxes up front that represent the available products
-:::
-
-## Fulfilling orders
-
-Once the remainder of the payment is automatically or manually collected on an order with a Downpay purchase option, you can begin fulfillment. 
-
-#### Steps
-
-**1.** Open the order you wish to start fulfilling from the Shopify order index page in the admin
-
-**2.** Click **Fulfill Early** in order to release the fulfillment and allow you to begin your usual workflow.
-
-
-:::caution Caution
-Downpay and Shopify do not block fulfilling and shipping orders that are only partially paid. Ensure you have received the expected payment before fulfilling orders.
-:::
-
-## Payment collection
+To use this feature, review Shopify's [send an invoice to a customer](https://help.shopify.com/en/manual/orders/deferred-payments#email-an-order-invoice-to-a-customer) guide.
 
 ### Manual payment collection
 
@@ -68,7 +41,7 @@ Shopify currently only supports one future payment date. This means that any ord
 
 ### Changing the payment due date
 
-When payment collection is set to manual mode in a Downpay purchase option, the payment due date is used to inform customers of the expected date they will be charged the remainder of the payment. If the payment collection estimate date changes, you may edit the date on the order details page and Downpay will automatically send an email notification to customers with the new date.
+When payment collection is set to manual mode in a Downpay purchase option, the payment due date is used to inform customers of the expected date they will be charged the remainder of the payment. If the payment collection estimate date changes, you may edit the date on the order details page. 
 
 #### Steps
 

@@ -4,39 +4,50 @@ slug: /
 title: Downpay Overview
 ---
 
-Welcome to Downpay! On this site you can find information about how to use Downpay for a variety of use cases and where to get further support if you need it.
+### :tada: Welcome to Downpay! :tada:
 
-To get started with, follow our [comprehensive guide](/initial-setup) for step by step instructions.
+There are three ways to get started with Downpay:
 
-If you have any questions, feel free to email us at [support@hypehound.io](mailto:support@hypehound.io)
+<a class="linkbtn" href="https://docs.downpay.app/quickstart_videos">Quick start videos</a>
+<br/>
+<br/>
 
-# Overview
+<a class="linkbtn" href="https://calendly.com/hypehoundapps/45min?month=2023-05">Booking free onboarding call</a>
+<br/>
+<br/>
 
-Learn more about use cases for Downpay, features, pricing, and where to get help.
 
-## Use cases
+<a class="linkbtn" href="https://apps.shopify.com/downpay#modal-show=GetSupportModal">Contact Us</a>
+<br/>
 
-There are many ways to use Downpay to provide customers with more payment flexibility. The most popular use cases are listed below.
+
+## Ways to use Downpay for deposits
+
+Downpay enables partial and deferred payments. This functionality enables a variety different selling strategies. Check out the most popular ways below.
 
 ### Preorders
 
-If you are releasing a new product and want to gauge demand to map out production, you can use Downpay to give customers a way to leave a minimal deposit while they wait for your product to release. This helps your business manage customer expectations and makes them feel more comfortable especially if shipping dates are months away.
+If you are releasing a new product and want to gauge demand to map out production, you can use Downpay to give customers a way to leave a deposit while they wait for your product to release. This helps your business manage customer expectations and makes them feel more comfortable especially if shipping date is months away.
 
 ### Made to Order
 
-If you want to make products on demand or offer commissions, Downpay is a great way to take an upfront deposit and only charge the remainder once you're ready to ship the product out.
+If you make custom products on demand or offer commissions, Downpay is a great way to take an upfront deposit and only charge the remainder once you're ready to ship the product out.
+
+### Bookings
+
+If you run workshops or selling travel packages and want to take a deposit to secure a spot and charge the remainder the day before a booking, deposits help you with this.
+
+### Try before you buy
+
+If you're looking to offer customers the chance to try products before being charged, you can defer payment for a given amount of time and only charge if the customer does not return the product within the window.
 
 ### Out of Stock
 
-If you've run out on products that are coming back in stock soon, you can use Downpay to allow customers to continue buying and holding their place in line. If you're used to back in stock notifications alone, Downpay is a way to level up your selling strategy by guaranteeing customers can commit to the purchase up front. 
+If you've run out on products that are coming back in stock soon, you can use Downpay to allow customers to continue buying and holding their place in line. If you're used to back in stock notifications alone, Downpay is a way to level up your selling strategy by offering a minimal deposit at checkout. This will ensure a customer's payment method is saved on file and you're able to charge it once the product is ready to ship, rather than hoping they return to buy the product from you via their back in stock notification.
 
 ### High-end Products
 
 If you're selling products that are challenging for customers to pay off in full at checkout, you can use Downpay as a layaway solution to split their payment in two and make it easier on their wallets. This method is also useful when your high end products are coupled with long shipping times.
-
-### Try before you buy
-
-If you're looking to offer customers the chance to try products before being charged, you can defer payment for a given amount of time and only charge if the customer does not return the prdouct within the window.
 
 ## Key features
 
@@ -45,8 +56,8 @@ Downpay includes many features to help enable payment flexibility with many more
 Downpay key features:
 
 * Deposits based on % or $ price of a product on your store or offering deferred payment per product
-* Manual and automatic payment collection
-* Storefront purchase options content customization 
+* Payment method on file per order
+* Storefront purchase options design and content customization 
 * Order tags by purchase option name and scheduled order status for future fulfillments
 * Customer payment method changes and/or cancellations
 * Customer purchase options cancellation policy at checkout
@@ -73,7 +84,7 @@ When using any kind of partial or deferred payment on Shopify, it’s important 
 
 * Buy now, pay later and subscription selling strategies do not support deposits but can be used together as separate options.
 
-* Deposits don’t support “Buy x, get y” discounts.
+* Deposits don’t support “Buy x, get y” discounts or shipping discounts.
 
 ## Pricing plans
 
@@ -87,9 +98,8 @@ Our pricing is designed with a minimal subscription fee to support businesses la
 
 ## Where to get help
 
-For any questions, please contact us in of the following ways:
+For any questions, please contact us!
 
 
-* Email us at: [support@hypehound.io](mailto:support@hypehound.io)
-<!-- * Join our Discord community [here](https://discord.gg/9rfcd3jGUq) and engage with us and other merchants using Downpay -->
+<a class="linkbtn" href="https://apps.shopify.com/downpay#modal-show=GetSupportModal">Contact Us</a>
 
