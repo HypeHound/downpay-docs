@@ -4,7 +4,7 @@ slug: /order-management-overview
 Title: Order Management
 ---
 
-# Order Management Overview
+# Order Management
 
 ## Viewing all orders for a purchase option
 

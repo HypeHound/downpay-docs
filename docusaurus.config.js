@@ -102,17 +102,33 @@ const config = {
                 to: '/',
               },
               {
-                label: 'Initial Setup',
+                label: 'Getting started',
                 to: '/initial-setup',
               },
               {
-                label: 'Workflows',
-                to: '/workflows',
+                label: 'Customer Notifications',
+                to: '/notifications',
+              },
+              {
+                label: 'Order Management',
+                to: '/order-management-overview',
+              },
+              {
+                label: 'Advanced Features',
+                to: '/advanced-features',
               },
               {
                 label: 'FAQs',
                 to: '/faqs',
               },
+              {
+                label: 'Supported languages',
+                to: '/languages',
+              },              {
+                label: 'Uninstalling Downpay',
+                to: '/uninstall-downpay',
+              },
+
             ],
           },
           {
@@ -130,6 +146,10 @@ const config = {
               {
                 label: 'App listing',
                 href: 'https://apps.shopify.com/downpay',
+              },
+              {
+                label: 'Changelog',
+                to: 'https://hypehound.io/downpay/changelog',
               },
             ],
           },
