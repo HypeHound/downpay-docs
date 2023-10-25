@@ -40,7 +40,14 @@ const config = {
       require.resolve("@cmfcmf/docusaurus-search-local"), 
       {
         indexBlog: false,
-      }
+      },
+    ],
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-W238KCQ7TR',
+        anonymizeIP: true,
+      },
     ]
   ],
 

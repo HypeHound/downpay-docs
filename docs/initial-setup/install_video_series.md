@@ -71,6 +71,6 @@ For detailed instructions, review [Creating a cancellation policy](/customer-pur
 There are many more Downpay features to explore in Downpay once you're settled in. 
 
 #### 1. [Setting up customer accounts](/customer-portal-setup)
-#### 2. [Bulk adding products to purchase options](/bulk-workflows)
+#### 2. [Bulk adding products to purchase options](/bulk-add-products)
 #### 3. [Adjusting language and dates in storefront and checkout](date-management)
 #### 4. [Managing orders with deposits](/order-management)
