@@ -90,7 +90,8 @@ You may also include a link to the Downpay portal on your Shopify classic custom
 
 **1.** Create a new snippet with the code below in the **Snippets** folder to the corresponding theme called **downpay-customer-order.liquid**
 
-```{% assign items_with_plans = order.line_items | where: 'selling_plan_allocation' %}
+```liquid
+{% assign items_with_plans = order.line_items | where: 'selling_plan_allocation' %}
 {% if items_with_plans.size != 0 %}
   <p>
     To manage your deferred payment
