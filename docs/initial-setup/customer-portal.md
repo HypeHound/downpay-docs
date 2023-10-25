@@ -100,7 +100,7 @@ You may also include a link to the Downpay portal on your Shopify classic custom
 {% endif %}
 ```
 
-**2.** Locate the **Customers/order.json** or the corresponding section that powers the store's Customer Account Order. This could be **main-order.liquid** found in Sections. Place the code below where you would like to see the link to the Downpay portal. We recommend placing it above the order details table. 
+**2.** Locate the **Customers/order.liquid** or the corresponding section that powers the store's Customer Account Order. This could be **main-order.liquid** found in Sections. Place the code below where you would like to see the link to the Downpay portal. We recommend placing it above the order details table. 
 
 ```
 {% render 'downpay-customer-order' %}
